@@ -1,0 +1,183 @@
+﻿<Page x:Class="AlGeo.Chapitre1.Cours.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo.Chapitre1.Cours"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="Carte3"  Style ="{DynamicResource StylePage}">
+
+    <Page.Resources>
+        <Storyboard x:Key="MoveLabel">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="GridLabel">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-1.895"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-1.154"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="-2.274"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-1.506"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="GridLabel">
+                <EasingDoubleKeyFrame KeyTime="0" Value="212.681"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="213.422"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.7" Value="-4.922"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-4.192"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="paysage">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-390.728"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="82.605"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-1.395"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="paysage">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-0.946"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-7.613"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.9" Value="-6.28"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+
+        <Storyboard x:Key="HelpButtonAnimation" RepeatBehavior="Forever">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="HelpButton">
+                <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="60"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="50"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(FrameworkElement.Height)" Storyboard.TargetName="HelpButton">
+                <EasingDoubleKeyFrame KeyTime="0" Value="50"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="60"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="50"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+    </Page.Resources>
+
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseDown" SourceName="btnAnnaba">
+            <BeginStoryboard Storyboard="{StaticResource MoveLabel}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseDown" SourceName="btnMetidja">
+            <BeginStoryboard Storyboard="{StaticResource MoveLabel}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseDown" SourceName="btnOran">
+            <BeginStoryboard Storyboard="{StaticResource MoveLabel}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseDown" SourceName="btnSidiBelAbbas">
+            <BeginStoryboard Storyboard="{StaticResource MoveLabel}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseDown" SourceName="btnTlemcen">
+            <BeginStoryboard Storyboard="{StaticResource MoveLabel}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard x:Name="HelpButtonAnimation_BeginStoryboard" Storyboard="{StaticResource HelpButtonAnimation}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="HelpButton">
+            <StopStoryboard BeginStoryboardName="HelpButtonAnimation_BeginStoryboard"/>
+            <StopStoryboard BeginStoryboardName="HelpButtonAnimation_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="HelpButton">
+            <BeginStoryboard x:Name="HelpButtonAnimation_BeginStoryboard1" Storyboard="{StaticResource HelpButtonAnimation}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="25*"/>
+                <ColumnDefinition Width="*"/>
+
+            </Grid.ColumnDefinitions>
+
+            <RichTextBox x:Name="Title" Style ="{DynamicResource StyleTitle}">
+                <FlowDocument>
+                    <Section>
+                        <Paragraph>
+                            <!--   <InlineUIContainer>
+                                <Image Source ="../Images/map.png" Height="40" Width="50" RenderTransformOrigin="0.525,1.158"/>
+                            </InlineUIContainer> -->
+                            <Span Foreground="#ff6700">
+                                <Bold Foreground="Black">المجال الاول</Bold> : مظاهر السطح في الجزائر
+                            </Span>
+                        </Paragraph>
+                    </Section>
+                </FlowDocument>
+            </RichTextBox>
+
+            <RichTextBox x:Name="richTextBox" Style ="{DynamicResource StyleCours}">
+                <FlowDocument>
+                    <Paragraph TextAlignment="Center">
+                        <Run Text="خريطةاهم سهول شمال الجزائر"/>
+                    </Paragraph>
+
+                </FlowDocument>
+            </RichTextBox>
+
+        </Grid>
+
+
+
+        <Image x:Name="image" Margin="49,0,327.332,29.333" Source="..\Images\dz-green5.png" Stretch="UniformToFill" Height="206.744" VerticalAlignment="Bottom"/>
+        <Image x:Name="paysage" HorizontalAlignment="Right" Margin="0,0,47.111,114.458" Width="290.221" Stretch="UniformToFill" Height="185.523" VerticalAlignment="Bottom" OpacityMask="Black" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="btnOran" FocusVisualStyle="{StaticResource FocusVisual}" HorizontalAlignment="Left" Margin="119.148,0,0,147.336"  Width="32.333" Source="../Images/pointer2.png" MouseDown="btnOran_MouseDown" Height="57" VerticalAlignment="Bottom" RenderTransformOrigin="0.684,0.732" d:LayoutOverrides="VerticalAlignment"/>
+        <Image x:Name="btnSidiBelAbbas" FocusVisualStyle="{StaticResource FocusVisual}" Margin="169.724,0,0,114.458" Source="../Images/pointer2.png" MouseDown="btnSidiBelAbbas_MouseDown" HorizontalAlignment="Left" Width="39" RenderTransformOrigin="-1.086,1.59" Height="57" VerticalAlignment="Bottom"/>
+        <Image x:Name="btnTlemcen" FocusVisualStyle="{StaticResource FocusVisual}" Margin="85.148,0,0,94.336" Source="../Images/pointer2.png" MouseDown="btnTlemcen_MouseDown" HorizontalAlignment="Left" Width="34" RenderTransformOrigin="-2.481,2.122" Height="53" VerticalAlignment="Bottom"/>
+        <Image x:Name="btnAnnaba" FocusVisualStyle="{StaticResource FocusVisual}" HorizontalAlignment="Right" Margin="0,0,389.443,192.077" Grid.Row="0" Width="35" Source="../Images/pointer2.png" MouseDown="btnAnnaba_MouseDown" RenderTransformOrigin="1.312,0.266" Height="57" VerticalAlignment="Bottom" />
+        <Image x:Name="btnMetidja" FocusVisualStyle="{StaticResource FocusVisual}" Margin="257.003,250.923,0,192.077" Source="../Images/pointer2.png" MouseDown="btnMetidja_MouseDown" HorizontalAlignment="Left" Width="39" Height="57" RenderTransformOrigin="0.564,0.417" />
+        <Grid x:Name="GridLabel" HorizontalAlignment="Right" Height="68.232" Margin="0,0,47.111,29.333" VerticalAlignment="Bottom" Width="297.497" RenderTransformOrigin="0.5,0.5" Visibility="Hidden">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Rectangle x:Name="RecLocation" Fill="#FF21AC91" Height="68.232" Stroke="Black" VerticalAlignment="Top" RadiusX="20" RadiusY="20" StrokeThickness="0" d:LayoutOverrides="TopMargin, BottomMargin" Margin="7.276,0,0,0"/>
+
+            <TextBlock x:Name="labelLocation"  Text="" TextAlignment="Center" HorizontalAlignment="Right" Height="48.232" Margin="0,0,10,10"  VerticalAlignment="Bottom" Width="280.221" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" FontSize="35" FontWeight="ExtraBold" FlowDirection="RightToLeft" Foreground="#FFEAAB25" >
+
+            </TextBlock>
+
+        </Grid>
+        <TextBlock x:Name="descriptionBlock" Margin="66.484,157,354.608,0" TextWrapping="Wrap" FlowDirection="RightToLeft" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" FontSize="22" RenderTransformOrigin="0.5,0.5" Height="88.782" VerticalAlignment="Top" Foreground="#FF2C3E50" FontWeight="ExtraBold">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+        <Image x:Name="HelpButton" Height="50" Width="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,110,42.111,0" Source="..\Images\help-icon.png" MouseMove="HelpButton_MouseMove" MouseLeave="HelpButton_MouseLeave"/>
+        <Grid x:Name="InfoBulleGrid" HorizontalAlignment="Right" Height="114.168" Margin="0,85.851,107.619,0" VerticalAlignment="Top" Width="340.824" Visibility="Hidden">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="63*"/>
+                <RowDefinition Height="62*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="InfoBulle" Source="..\Images\infobulle2.png" Stretch="UniformToFill" Margin="10,0,0,10" Grid.RowSpan="2" />
+            <RichTextBox x:Name="InfoBulleText" Background="{x:Null}" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" FontSize="18" FlowDirection="RightToLeft" Margin="17.619,10,73.81,24.144" BorderBrush="{x:Null}" Grid.RowSpan="2">
+                <FlowDocument>
+                    <Paragraph>اضغط على المؤشرات الحمراء لنستكشف معا اهم السهول الساحلية</Paragraph>
+                </FlowDocument>
+            </RichTextBox>
+        </Grid>
+    </Grid>
+</Page>
+

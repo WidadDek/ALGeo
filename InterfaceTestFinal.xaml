@@ -1,0 +1,178 @@
+﻿<Page x:Class="AlGeo.InterfaceTestFinal"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+        Title="InterfaceTestFinal" Height="650" Width="1100"  Background="#FF1ABC9C">
+    <Page.Resources>
+        <Storyboard x:Key="StoryboardVF" RepeatBehavior="1x">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image1" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="25.426"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-18.047"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-0.06"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="TestFinalExoStoryBoard">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="menuGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="594.36"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="TestFinalCorrectionStoryBoard">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="corrigemMenuGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="563.94"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard x:Name="TestFinalExoStoryBoard_BeginStoryboard" Storyboard="{StaticResource TestFinalExoStoryBoard}"/>
+            <BeginStoryboard x:Name="TestFinalCorrectionStoryBoard_BeginStoryboard" Storyboard="{StaticResource TestFinalCorrectionStoryBoard}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource StoryboardVF}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="GoToCorrectionMenu">
+            <BeginStoryboard x:Name="TestFinalCorrectionStoryBoard_BeginStoryboard1" Storyboard="{StaticResource TestFinalCorrectionStoryBoard}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="GoToExoMenu">
+            <BeginStoryboard x:Name="TestFinalExoStoryBoard_BeginStoryboard1" Storyboard="{StaticResource TestFinalExoStoryBoard}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="100*"/>
+            <RowDefinition Height="70*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <WrapPanel  x:Name="CountDownWrapper"  Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Hidden" Height="90" Margin="236,0,238,0" Width="498">
+            <TextBlock x:Name="CountDownTB" Style="{DynamicResource StyleTBlkVF}" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="1" Width="412" />
+            <Image x:Name="image1"   VerticalAlignment="Center" Source="Images/Interface/alarm.png" Stretch="UniformToFill" Height="92"  Grid.Column="2" Grid.Row="1" RenderTransformOrigin="0.5,0.5"  HorizontalAlignment="Right" Width="86" >
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </WrapPanel>
+
+        <!-- <ProgressBar x:Name="ScorePB" Style="{DynamicResource StyleProgressBarVF}" Maximum="120" Width="600" Background="White" Foreground="#FF04F03D" Grid.Column="2" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Center"/>-->
+
+        <Grid  x:Name="menuGrid" Grid.Row="2" Grid.Column="2"  Grid.RowSpan="5" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="Exo1" Content="التمرين  1"  Grid.Row="0" Width="300" Height="75"
+                    Style="{DynamicResource TFButton}" FontSize="34" Click="GoToExo1_Click" Margin="26.013,10,159.281,9.477" Background="#FF88A725" Foreground="#FF911046"/>
+            <Button x:Name="Exo2" Content="التمرين  2"  Grid.Row="1" Width="300" Height="75"
+                     Style="{DynamicResource TFButton}" FontSize="34" Click="GoToExo2_Click" Margin="128.369,10,56.925,9.476" Foreground="#FFED8C2B" Background="#FF4D1A55"/>
+            <Button x:Name="Exo3" Content="التمرين  3"  Grid.Row="2" Width="300" Height="75"
+                     Style="{DynamicResource TFButton}"  FontSize="34" Click="GoToExo3_Click" Margin="26.013,9.477,159.281,10" Background="#FF911046" Foreground="#FFED8C2B"/>
+            <Button x:Name="Exo4" Content="التمرين  4"  Grid.Row="3" Width="300" Height="75"
+                     Style="{DynamicResource TFButton}" FontSize="34" Click="GoToExo4_Click" Margin="128.369,10,56.925,9.477" Foreground="#FF97134A" Background="#FFF25822"/>
+            <Button x:Name="Exo5" Content="التمرين  5"  Grid.Row="4" Width="300" Height="75"
+                     Style="{DynamicResource TFButton}" FontSize="34" Click="GoToExo5_Click" Margin="26.013,9.477,159.281,10" Foreground="#FF911046" Background="#FFED8C2B"/>
+
+            <Image x:Name="imgExo1" HorizontalAlignment="Right" Margin="0,10,55.774,4.477" Width="98.507" Height="80" Source="Images/Interface/test-1.png"/>
+
+            <Image x:Name="imgExo2" HorizontalAlignment="Left" Margin="35.095,7.72,0,6.755" Grid.Row="1" Height="80" Width="80" Source="Images/Interface/pencil.png" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-37.895"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image x:Name="imgExo4" HorizontalAlignment="Left" Margin="52.307,10,0,4.476" Grid.Row="3" Height="80"  Width="71.062" Source="/Images/Relier.png"/>
+            <Image x:Name="imgExo3" HorizontalAlignment="Right" Margin="0,9.477,56.925,10.523" Grid.Row="2" Height="80" Width="80" Source="Images/Interface/questions (2).png" />
+            <Image x:Name="imgExo5" HorizontalAlignment="Right" Margin="0,10,56.925,4.477" Grid.Row="4" Height="80" Width="97.356"  Source="Images/Interface/test-1.png" />
+
+
+        </Grid>
+        <Grid  x:Name="corrigemMenuGrid" Grid.Row="2" Grid.Column="1" Grid.RowSpan="5" RenderTransformOrigin="0.5,0.5" Margin="-10,1.096,10,-1.097" Visibility="Hidden">
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="CorrectionExo1" Content=" تصحيح التمرين1" Grid.Row="0"   Width="300" Height="75" Click="CorrectionExo1_Click"
+                    Style="{DynamicResource TFButton}" FontSize="34"  Margin="26.013,10,159.281,9.477" Background="#FF88A725" Foreground="#FF911046"/>
+            <Button x:Name="CorrectionExo2" Content=" تصحيح التمرين2"   Width="300" Height="75" Click="CorrectionExo2_Click" Grid.Row="1"
+                     Style="{DynamicResource TFButton}" FontSize="34" Margin="128.369,10,56.925,9.476" Foreground="#FFED8C2B" Background="#FF4D1A55"/>
+            <Button x:Name="CorrectionExo3" Content=" تصحيح التمرين3" Grid.Row="2" Width="300" Height="75" Click="CorrectionExo3_Click"
+                     Style="{DynamicResource TFButton}"  FontSize="34"  Margin="26.013,9.477,159.281,10" Background="#FF911046" Foreground="#FFED8C2B" />
+            <Button x:Name="CorrectionExo4" Content=" تصحيح التمرين4"  Grid.Row="3" Width="300" Height="75"  Click="CorrectionExo4_Click"
+                     Style="{DynamicResource TFButton}" FontSize="34" Margin="128.369,10,56.925,9.477" Foreground="#FF97134A" Background="#FFF25822"/>
+            <Button x:Name="CorrectionExo5" Content=" تصحيح التمرين5" Grid.Row="4" Click="CorrectionExo5_Click"  Width="300" Height="75"
+                     Style="{DynamicResource TFButton}" FontSize="34" Margin="26.013,9.477,159.281,10" Foreground="#FF911046" Background="#FFED8C2B"/>
+
+
+            <Image x:Name="imgCor1" HorizontalAlignment="Right" Margin="0,10,55.774,4.477" Width="98.507" Height="80" Source="Images/Interface/test-1.png"/>
+
+            <Image x:Name="imgCor2" HorizontalAlignment="Left" Margin="35.095,7.72,0,6.755" Grid.Row="1" Height="80" Width="80" Source="Images/Interface/pencil.png" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-37.895"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image x:Name="imgCor4" HorizontalAlignment="Left" Margin="52.307,10,0,4.476" Grid.Row="3" Height="80"  Width="71.062" Source="/Images/Relier.png"/>
+            <Image x:Name="imgCor3" HorizontalAlignment="Right" Margin="0,9.477,56.925,10.523" Grid.Row="2" Height="80" Width="80" Source="Images/Interface/questions (2).png" />
+            <Image x:Name="imgCor5" HorizontalAlignment="Right" Margin="0,10,56.925,4.477" Grid.Row="4" Height="80" Width="97.356"  Source="Images/Interface/test-1.png" />
+        </Grid>
+        <Frame x:Name="ExoFrame"  NavigationUIVisibility="Hidden" Grid.ColumnSpan="4"   Grid.Row="2" Grid.RowSpan="5" Navigated="ExoFrame_Navigated"/>
+        <Button x:Name="GoToExoMenu" Style="{DynamicResource TFButton}" Background="#FF911046" Foreground="#FFED8C2B" Content="اختر تمرينا اخر"  VerticalAlignment="Center" HorizontalAlignment="Center" Height="57" Width="227"  Grid.Row="7" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" FontSize="30" Click="GoToExoMenu_Click" Visibility="Hidden" Margin="60,2,263,7" Grid.ColumnSpan="2"/>
+        <Button x:Name="GoToCorrectionMenu" Style="{DynamicResource TFButton}" Background="#FF911046" Foreground="#FFED8C2B" Content="الرجوع لصفحة التصحيح" Grid.Column="2"  VerticalAlignment="Center" HorizontalAlignment="Center" Height="50" Width="300"  Grid.Row="7" FontFamily="/AlGeo;component/Fonts/#El Messiri" FontSize="30" Click="GoToCorrectionMenu_Click" Visibility="Hidden"/>
+        <TextBlock Name="CommentTB" Style="{DynamicResource StyleTBlkVF}" Grid.Row="1" Grid.Column="1"  Grid.ColumnSpan="2" HorizontalAlignment="Center"  Width="700" VerticalAlignment="Center"  Visibility="Hidden" Margin="136,15"/>
+        <Image x:Name="imageMenuGrid" Margin="10,-17.239,0,-30.102" Grid.Row="2" Grid.RowSpan="5" Source="/Images/lampeBrain1.png" Grid.ColumnSpan="2"/>
+        <Image x:Name="imageCorrectionMenuGrid" Margin="5,-17.239,5,-30.102" Grid.Row="2" Grid.RowSpan="5" Source="/Images/lampeBrain1.png" Grid.ColumnSpan="2" Grid.Column="2" Visibility="Hidden"/>
+        <Button x:Name="Back" Content="العودة " Style="{DynamicResource ButtonStylePrevious2}" HorizontalAlignment="Left"  Margin="-12,9,0,0" VerticalAlignment="Top" Width="137" FontSize="20" Click="Back_Click"  Height="88" Grid.ColumnSpan="2" Grid.RowSpan="2"/>
+    </Grid>
+</Page>

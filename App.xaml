@@ -1,0 +1,33 @@
+﻿<Application x:Class="AlGeo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AlGeo"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <Style x:Key="SlideBorder" TargetType="Border">
+                <Setter Property="BorderThickness" Value="3"/>
+                <Style.Triggers>
+                    <Trigger Property="IsEnabled" Value="false">
+                        <Setter Property="BorderBrush" Value="LimeGreen"/>
+                        <Setter Property="BorderThickness" Value="3"/>
+                    </Trigger>
+                    <Trigger Property="IsEnabled" Value="true">
+                        <Setter Property="BorderBrush" Value="Black"/>
+                    </Trigger>
+                </Style.Triggers>
+            </Style>
+            <Color x:Key="BlueTurquoise">#FF1ABC9C</Color>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="DictionnaireCours.xaml"/>
+                <ResourceDictionary Source="DictionnaireRemplirChamps.xaml"/>
+                <ResourceDictionary Source="DictionnaireTestFinal.xaml"/>
+                <ResourceDictionary Source="Simple Styles.xaml"/>
+                <ResourceDictionary Source="DictionnaireExitButton.xaml"/>
+                <ResourceDictionary Source="RadionButtonStyleForQCM.xaml"/>
+                <ResourceDictionary Source="DictionnaireVraiOuFaux.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+
+    </Application.Resources>
+</Application>

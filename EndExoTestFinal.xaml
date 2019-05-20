@@ -1,0 +1,54 @@
+﻿<Window x:Class="AlGeo.EndExoTestFinal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlGeo"
+        mc:Ignorable="d"
+        Title="EndExoTestFinal"  Height="650" Width="1100" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Background="{x:Null}" AllowsTransparency="True">
+
+    <Grid  Height="300" Width="800" VerticalAlignment="Center" HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="4*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+        <Border Grid.RowSpan="4" Grid.ColumnSpan="6" Background="#FF125065" BorderBrush="#FFEFD9DB" CornerRadius="50"></Border>
+        <RichTextBox  Style="{DynamicResource StyleRTBVF}" Name="CommentTBlk" Background="#FFF4C91D"  Grid.Row="2" Grid.ColumnSpan="3" Grid.Column="1" >
+            <FlowDocument>
+                <Paragraph  Name="CommentParagraph" TextAlignment="Center">
+                    <LineBreak/>
+                </Paragraph>
+            </FlowDocument>
+        </RichTextBox>
+        <Button x:Name="Exit" Content="Button" HorizontalAlignment="Center" Height="40" Style="{DynamicResource ExitButtonStyle}" VerticalAlignment="Top" Width="50" Click="Exit_Click"
+                Grid.Column="5" Margin="47,0,48,0"/>
+        <Button x:Name="Ok" Click="Exit_Click" Content="حسنا" Background="#FFF4C91D" Foreground="White" Grid.Row="3" Grid.Column="2" HorizontalAlignment="Center"  VerticalAlignment="Center" Height="50" Width="70" FontSize="25" Style="{DynamicResource BorderButton}" FlowDirection="RightToLeft"/>
+
+        <Image Name="image1" Grid.Column="2" Grid.RowSpan="2" HorizontalAlignment="Center"  Width="100" VerticalAlignment="Center" Source="Images/StartImage2.png" RenderTransformOrigin="2.392,-0.972">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="46.501"/>
+                    <TranslateTransform X="39.268" Y="179.454"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Name="image2" Grid.RowSpan="2" HorizontalAlignment="Center" Width="100" VerticalAlignment="Center" Source="Images/StartImage4.png" Margin="33,106,0,10" Grid.Row="2" />
+
+
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,1581 @@
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\bin\Debug\Etudiant.mdf
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\bin\Debug\Etudiant_log.ldf
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\WpfApplication1.exe
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\WpfApplication1.pdb
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\DictionnaireRemplirChamps.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\HelpDeExo\HelpExo.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExolier.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Coloriage.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Simple Styles.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo2\Exercice2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ApplicationWindow.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Apropos.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page4.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page5.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page6.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page7.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page4.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page5.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page6.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page7.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page8.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page4.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page5.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page6.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\EndExoTestFinal.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\EndPageExo.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreDeDialogueCours.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreEndExo.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreHelp.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreQuitterCours.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\HelpDeExo\HelpExo.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceAdministrateur.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceBonus.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceConnexion.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCours.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCreateAccount.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceDemarrage.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceEnigme.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExercice.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceQCM.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExitApp.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExo1TestFinal.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExolier.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceHomePage.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceMessageBox.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceTestFinal.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\MainWindow.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Coloriage.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\MemoryGame.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\StartExoWindow.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\EndPage.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Views\MainMenuView.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Views\StartMenuView.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WilayaInforamation.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\App.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\App.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ApplicationWindow.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Apropos.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page4.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page5.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page6.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre1\Cours\Page7.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page4.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page5.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page6.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page7.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre2\Cours\Page8.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page4.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page5.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Chapitre3\Cours\Page6.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\DictionnaireCours.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\DictionnaireExitButton.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\DictionnaireTestFinal.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\DictionnaireVraiOuFaux.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\EndExoTestFinal.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\EndPageExo.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\ExerciceRemplirTableau3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreDeDialogueCours.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreEndExo.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreHelp.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\FenetreQuitterCours.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceAdministrateur.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceBonus.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceChapitre3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceConnexion.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCorrectionTestFinal.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCours.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceCreateAccount.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceDemarrage.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceEnigme.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExercice.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceQCM.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExitApp.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceExo1TestFinal.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceHomePage.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceMessageBox.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\InterfaceTestFinal.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\MainWindow.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\MemoryGame.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\RadionButtonStyleForQCM.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\StartExoWindow.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\EndPage.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Views\MainMenuView.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\Views\StartMenuView.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WilayaInforamation.baml
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1.exe
+E:\28 . 04 . 2017Kaouther\25 . 04 . 2017_Final\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\WpfApplication1.exe.config
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\WpfApplication1.exe
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\WpfApplication1.pdb
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ApplicationWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Apropos.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\DictionnaireCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\DictionnaireExitButton.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\EndExoTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\EndPageExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreEndExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreHelp.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreQuitterCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceBonus.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceConnexion.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceDemarrage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceEnigme.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExitApp.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExolier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceHomePage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceMessageBox.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Coloriage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\MemoryGame.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Simple Styles.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\StartExoWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\EndPage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Views\MainMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Views\StartMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WilayaInforamation.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\App.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ApplicationWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Apropos.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\EndPageExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreEndExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreHelp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceBonus.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceExolier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Coloriage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\MemoryGame.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\StartExoWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WilayaInforamation.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1_Content.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.cache
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1_MarkupCompile.lref
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1.g.resources
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1.exe
+C:\Users\acer\Desktop\AlGeoCodeSource\WpfApplication1\obj\Debug\WpfApplication1.pdb
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Simple Styles.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\App.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireExitButton.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.baml
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe.config
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_Content.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.cache
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.lref
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.g.resources
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.Properties.Resources.resources
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.exe
+C:\Users\acer\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe.config
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.exe
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Simple Styles.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_Content.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.cache
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.lref
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\App.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireExitButton.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.baml
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.g.resources
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.Properties.Resources.resources
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.g.cs
+C:\Users\acer\Desktop\AlGeoCodeSourceEnvoyé\AlGeoCodeSource\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe.config
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.exe
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.pdb
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Simple Styles.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExolier.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Coloriage.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_Content.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.cache
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo_MarkupCompile.lref
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.exe
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\AlGeo.pdb
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\App.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ApplicationWindow.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Apropos.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireCours.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireExitButton.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndExoTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\EndPageExo.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreEndExo.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreHelp.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\FenetreQuitterCours.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceBonus.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceChapitre3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceConnexion.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCours.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceDemarrage.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceEnigme.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExercice.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExitApp.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceHomePage.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceMessageBox.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\InterfaceTestFinal.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\MemoryGame.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\StartExoWindow.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\EndPage.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\MainMenuView.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\Views\StartMenuView.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\WilayaInforamation.baml
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.g.resources
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.Properties.Resources.resources
+C:\Users\HP\Desktop\AlGeoCodeSource\AlGeo\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\AlGeo.exe.config
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.exe
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.pdb
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\AlGeo.exe
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\AlGeo.pdb
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExolier.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Coloriage.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Simple Styles.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ApplicationWindow.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Apropos.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\EndPageExo.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreEndExo.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreHelp.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceBonus.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCours.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExercice.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExolier.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\MainWindow.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Coloriage.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\MemoryGame.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\StartExoWindow.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\WilayaInforamation.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\App.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo_Content.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo_MarkupCompile.cache
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo_MarkupCompile.lref
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\App.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ApplicationWindow.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Apropos.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\DictionnaireCours.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\DictionnaireExitButton.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\EndExoTestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\EndPageExo.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreAffichageScoreTestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreEndExo.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreHelp.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\FenetreQuitterCours.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceBonus.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceChapitre3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceConnexion.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCours.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceDemarrage.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceEnigme.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExercice.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExitApp.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceHomePage.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceMessageBox.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\InterfaceTestFinal.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\MainWindow.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\MemoryGame.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\StartExoWindow.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\EndPage.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Views\MainMenuView.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\Views\StartMenuView.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\WilayaInforamation.baml
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.g.resources
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.Properties.Resources.resources
+C:\Users\PLANET iNFO\Desktop\Livrables Final\AlGeo\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.exe.config
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\bin\Debug\Etudiant.mdf
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\bin\Debug\Etudiant_log.ldf
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.exe
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.pdb
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireRemplirChamps.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\HelpDeExo\HelpExo.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExolier.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Coloriage.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Simple Styles.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\Exercice2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ApplicationWindow.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Apropos.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page4.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page5.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page6.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page7.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page4.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page5.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page6.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page7.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page8.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page4.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page5.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page6.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndExoTestFinal.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndPageExo.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreAffichageScoreTestFinal.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreDeDialogueCours.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreEndExo.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreHelp.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreQuitterCours.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\HelpDeExo\HelpExo.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceAdministrateur.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceBonus.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceConnexion.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCours.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCreateAccount.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceDemarrage.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceEnigme.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExercice.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceQCM.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExitApp.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExo1TestFinal.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExolier.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceHomePage.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceMessageBox.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceTestFinal.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Coloriage.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MemoryGame.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\StartExoWindow.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\EndPage.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\MainMenuView.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\StartMenuView.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\WilayaInforamation.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\App.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_Content.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_MarkupCompile.cache
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_MarkupCompile.lref
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\App.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ApplicationWindow.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Apropos.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page4.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page5.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page6.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page7.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page4.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page5.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page6.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page7.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page8.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page4.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page5.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page6.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireCours.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireExitButton.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireTestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireVraiOuFaux.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndExoTestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndPageExo.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreAffichageScoreTestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreDeDialogueCours.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreEndExo.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreHelp.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreQuitterCours.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceAdministrateur.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceBonus.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceConnexion.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCorrectionTestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCours.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCreateAccount.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceDemarrage.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceEnigme.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExercice.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceQCM.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExitApp.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExo1TestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceHomePage.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceMessageBox.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceTestFinal.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MainWindow.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MemoryGame.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\RadionButtonStyleForQCM.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\StartExoWindow.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\EndPage.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\MainMenuView.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\StartMenuView.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\WilayaInforamation.baml
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.g.resources
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.Properties.Resources.resources
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.exe
+C:\Users\PLANET iNFO\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.exe.config
+C:\Users\PLANET iNFO\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.exe
+C:\Users\PLANET iNFO\Desktop\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.pdb
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.exe.config
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.exe
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.pdb
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\bin\Debug\Etudiant.mdf
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\bin\Debug\Etudiant_log.ldf
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.exe
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\AlGeo.pdb
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.csprojResolveAssemblyReference.cache
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireRemplirChamps.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\HelpDeExo\HelpExo.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExolier.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Coloriage.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Simple Styles.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\CorrigerExercice2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\Exercice2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\CorrigerRelier.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\ExerciceRelier.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ApplicationWindow.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Apropos.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page4.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page5.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page6.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page7.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page4.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page5.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page6.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page7.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page8.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page4.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page5.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page6.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndExoTestFinal.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndPageExo.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreAffichageScoreTestFinal.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreDeDialogueCours.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreEndExo.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreHelp.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreQuitterCours.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\HelpDeExo\HelpExo.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceAdministrateur.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceBonus.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceConnexion.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCorrectionTestFinal.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCours.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCreateAccount.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceDemarrage.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceEnigme.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExercice.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceQCM.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExitApp.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExo1TestFinal.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExolier.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceHomePage.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceMessageBox.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceTestFinal.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page1.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page3.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page4.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page5.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page6.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page7.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page8.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MainWindow.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Coloriage.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MemoryGame.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\StartExoWindow.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\EndPage.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\CorrigerExercice2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo2\Exercice2.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\ExoDevineMot.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\CorrigerRelier.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo4\ExerciceRelier.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesCorrection.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesExercice.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\MainMenuView.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\StartMenuView.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\WilayaInforamation.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\App.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_Content.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_MarkupCompile.cache
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo_MarkupCompile.lref
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\App.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ApplicationWindow.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Apropos.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page4.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page5.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page6.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre1\Cours\Page7.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page4.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page5.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page6.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page7.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre2\Cours\Page8.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page4.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page5.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Chapitre3\Cours\Page6.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireCours.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireExitButton.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireTestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\DictionnaireVraiOuFaux.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndExoTestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\EndPageExo.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\ExerciceRemplirTableau3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreAffichageScoreTestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreDeDialogueCours.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreEndExo.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreHelp.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\FenetreQuitterCours.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceAdministrateur.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceBonus.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceChapitre3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceConnexion.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCorrectionTestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCours.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceCreateAccount.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceDemarrage.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceEnigme.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExercice.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceQCM.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExerciceRemplirChamp3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExitApp.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceExo1TestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceHomePage.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceMessageBox.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\InterfaceTestFinal.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page1.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page2.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page3.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page4.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page5.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page6.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page7.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\JeuBonus\CartesAnimes\Page8.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MainWindow.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\MemoryGame.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\RadionButtonStyleForQCM.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\StartExoWindow.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\EndPage.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\CorrigeExerciceVraiOuFaux.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo1\ExerciceVraiOuFaux.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\CorrigeExoDevineMot.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo3\ExoDevineMot.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesCorrection.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\TestFinal\Exo5\EnigmesExercice.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\MainMenuView.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\Views\StartMenuView.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\WilayaInforamation.baml
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.g.resources
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.Properties.Resources.resources
+F:\Projects\PRJ1_EQ30_Bellatar_Ayad_LIVRABLE\Code Source\PRJ1_ EQ30_Bellatar_Ayad_Code Source\obj\Debug\AlGeo.csproj.GenerateResource.Cache

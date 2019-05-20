@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestFinal>
+  <DebutQuestionsFaites>1</DebutQuestionsFaites>
+  <TotalQuestion>14</TotalQuestion>
+  <Probleme1>
+    <Q>بأي صنف من الموارد تذكرك الصور التالية</Q>
+    <Prop1>charbon.jpg</Prop1>
+    <Prop2>GazNaturel.jpg</Prop2>
+    <R>باطنية</R>
+    <CasesPropose>احطةينربم</CasesPropose>
+    <NbCase>6</NbCase>
+  </Probleme1>
+  <Probleme2>
+    <Q>بأي مورد من موارد الطاقة تذكرك الصور التالية</Q>
+    <Prop1>petrol.jpg</Prop1>
+    <Prop2>petrol-1.jpg</Prop2>
+    <R>بترول</R>
+    <CasesPropose>بوتراممهل</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme2>
+  <Probleme3>
+    <Q>بأي سهل من سهول الجزائر تذكرك الصور التالية</Q>
+    <Prop1>grass1.jpg</Prop1>
+    <Prop2>Citronnier.jpg</Prop2>
+    <R>متيجة</R>
+    <CasesPropose>ميتيجمنرة</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme3>
+  <Probleme4>
+    <Q>بأي اقليم من أقاليم الجزائر تذكرك الصور التالية</Q>
+    <Prop1>alger.jpg</Prop1>
+    <Prop2>Rain1.jpg</Prop2>
+    <CasesPropose>ممليشراتل</CasesPropose>
+    <R>شمال</R>
+    <NbCase>4</NbCase>
+  </Probleme4>
+  <Probleme5>
+    <Q>عن أي مظهر تضاريسي صحراوي تعبر الصور الآتية</Q>
+    <Prop1>rik.JPG</Prop1>
+    <Prop2>rik-1.jpg</Prop2>
+    <R>رق</R>
+    <CasesPropose>راقعقعكمر</CasesPropose>
+    <NbCase>2</NbCase>
+  </Probleme5>
+  <Probleme6>
+    <Q>عن أي جبال تدل الصور الآتية</Q>
+    <Prop1>tikjda-chalet.jpg</Prop1>
+    <Prop2>tikjda.jpg</Prop2>
+    <R>جرجرة</R>
+    <CasesPropose>رحجرجكةما</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme6>
+  <Probleme7>
+    <Q>عن أي قمة تدل الصور الآتية</Q>
+    <Prop1>hoggar.JPG</Prop1>
+    <Prop2>tahat.jpg</Prop2>
+    <R>تاهات</R>
+    <CasesPropose>هحتاجاتما</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme7>
+  <Probleme8>
+    <Q>بأي مناخ تذكرك الصور التالية</Q>
+    <Prop1>chevaux.jpg</Prop1>
+    <Prop2>desertification.jpg</Prop2>
+    <R>قاري</R>
+    <CasesPropose>خحقايسررم</CasesPropose>
+    <NbCase>4</NbCase>
+  </Probleme8>
+  <Probleme9>
+    <Q>بأي صنف من الموارد تذكرك الصور التالية</Q>
+    <Prop1>or et argent.jpeg</Prop1>
+    <Prop2>nap-soutterainne.jpg</Prop2>
+    <R>باطنية</R>
+    <CasesPropose>احطةينربم</CasesPropose>
+    <NbCase>6</NbCase>
+  </Probleme9>
+  <Probleme10>
+    <Q>بأي صنف من الموارد تذكرك الصور التالية</Q>
+    <Prop1>River.jpg</Prop1>
+    <Prop2>halfa.jpg</Prop2>
+    <R>سطحية</R>
+    <CasesPropose>خحطةيسررم</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme10>
+  <Probleme11>
+    <Q>بأي صنف من الموارد تذكرك الصور التالية</Q>
+    <Prop1>corail-1.jpg</Prop1>
+    <Prop2>banc-poisson.jpg</Prop2>
+    <CasesPropose>محرمبيلةر</CasesPropose>
+    <R>بحرية</R>
+    <NbCase>5</NbCase>
+  </Probleme11>
+  <Probleme12>
+    <Q>عن أي مظهر تضاريسي صحراوي تعبر الصور الآتية</Q>
+    <Prop1>IrkGharbi.jpg</Prop1>
+    <Prop2>oasis.jpg</Prop2>
+    <R>عرق</R>
+    <CasesPropose>راقعقعكمر</CasesPropose>
+    <NbCase>3</NbCase>
+  </Probleme12>
+  <Probleme13>
+    <Q>بأي اقليم من أقاليم الجزائر تذكرك الصور التالية</Q>
+    <Prop1>scorpion.jpg</Prop1>
+    <Prop2>palmier.jpg</Prop2>
+    <R>صحراء</R>
+    <CasesPropose>احرءيصرام</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme13>
+  <Probleme14>
+    <Q>بأي صنف من الموارد تذكرك الصور التالية</Q>
+    <Prop1>forest.jpg</Prop1>
+    <Prop2>fennec.jpg</Prop2>
+    <R>سطحية</R>
+    <CasesPropose>خحطةيسررم</CasesPropose>
+    <NbCase>5</NbCase>
+  </Probleme14>
+</TestFinal>

@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Enigmes>
+  <TotalQuestion>15</TotalQuestion>
+  <DebutQuestionsFaites>1</DebutQuestionsFaites>
+  <Probleme1>
+    <Q> انا مظهر من مظاهر صحراء الجزائر</Q>
+    <Choix1>beach.png</Choix1>
+    <Choix2>desert.png</Choix2>
+    <Choix3>nature.png</Choix3>
+    <R>2</R>
+    <C>الكثبان الرملية </C>
+  </Probleme1>
+  <Probleme2>
+    <Q>انا اقليم معتدل الحرارة صيفا و غزير الامطار شتاءا فهل عرفتني ؟</Q>
+    <Choix1>1.png</Choix1>
+    <Choix2>2.png</Choix2>
+    <Choix3>3.png</Choix3>
+    <R>1</R>
+    <C>اقليم البحر الأبيض المتوسط</C>
+  </Probleme2>
+  <Probleme3>
+    <Q> انا حيوان يعيش في اقليم البحر الأبيض المتوسط فمن انا ؟</Q>
+    <Choix1>sheep.png</Choix1>
+    <Choix2>girafe.png</Choix2>
+    <Choix3>camel.png</Choix3>
+    <R>1</R>
+    <C>الغنم</C>
+  </Probleme3>
+  <Probleme4>
+    <Q> انا نبات ينمو في اقليم المناخ  القاري فمن انا ؟</Q>
+    <Choix1>saharaplant.jpg</Choix1>
+    <Choix2>wheat.jpg</Choix2>
+    <Choix3>orangetree.jpg</Choix3>
+    <R>2</R>
+    <C>القمح و الشعير</C>
+  </Probleme4>
+  <Probleme5>
+    <Q>انا امثل اكبر الاقاليم المناخية في الجزائر من حيث المساحة فمن انا ؟</Q>
+    <Choix1>1.png</Choix1>
+    <Choix2>2.png</Choix2>
+    <Choix3>3.png</Choix3>
+    <R>3</R>
+    <C> اقليم المناخ الصحراوي</C>
+  </Probleme5>
+  <Probleme6>
+    <Q>انا حيوان  يعيش في اقليم المناخ الصحراوي فمن انا ؟</Q>
+    <Choix1>sheep.png</Choix1>
+    <Choix2>camel.png</Choix2>
+    <Choix3>cow.png</Choix3>
+    <R>2</R>
+    <C> الجمل </C>
+  </Probleme6>
+  <Probleme7>
+    <Q>انا نبات ينمو في اقليم المناخ  الصحراوي فمن انا ؟</Q>
+    <Choix1>orangetree.jpg</Choix1>
+    <Choix2>wheat.jpg</Choix2>
+    <Choix3>saharaplant.jpg</Choix3>
+    <R>3</R>
+    <C> النباتات الشوكية </C>
+  </Probleme7>
+  <Probleme8>
+    <Q>انا مناخ متطرف جدا شديد الحرارة صيفا وشديد البرودة شتاءا فمن اكون ؟</Q>
+    <Choix1>1.png</Choix1>
+    <Choix2>2.png</Choix2>
+    <Choix3>3.png</Choix3>
+    <R>3</R>
+    <C> اقليم المناخ الصحراوي </C>
+  </Probleme8>
+  <Probleme9>
+    <Q> انا اقليم غني بالمياه الجوفية فمن انا ؟</Q>
+    <Choix1>1.png</Choix1>
+    <Choix2>2.png</Choix2>
+    <Choix3>3.png</Choix3>
+    <R>3</R>
+    <C> اقليم المناخ الصحراوي</C>
+  </Probleme9>
+  <Probleme10>
+    <Q>من الموارد السطحية التي تشتهر بها الجزائر</Q>
+    <Choix1>forest.jpeg</Choix1>
+    <Choix2>gold.jpg</Choix2>
+    <Choix3>undersea.jpg</Choix3>
+    <R>1</R>
+    <C>الغابات </C>
+  </Probleme10>
+  <Probleme11>
+    <Q>من الموارد الباطنية التي تشتهر بها الجزائر</Q>
+    <Choix1>undersea.jpg</Choix1>
+    <Choix2>gold.jpg</Choix2>
+    <Choix3>forest.jpeg</Choix3>
+    <R>2</R>
+    <C> المعادن </C>
+  </Probleme11>
+  <Probleme12>
+    <Q>من الموارد البحرية التي تشتهر بها الجزائر</Q>
+    <Choix1>gold.jpg</Choix1>
+    <Choix2>undersea.jpg</Choix2>
+    <Choix3>forest.jpeg</Choix3>
+    <R>2</R>
+    <C> المرجان </C>
+  </Probleme12>
+  <Probleme13>
+    <Q>تغطي الغابة مساحة هامة في الجزائر فكيف نحافظ عليها ؟</Q>
+    <Choix1>wood.png</Choix1>
+    <Choix2>forestfire.jpg</Choix2>
+    <Choix3>picnic.jpg</Choix3>
+    <R>3</R>
+    <C>
+    </C>
+  </Probleme13>
+  <Probleme14>
+    <Q>انا نبات ينمو في اقليم البحر الابيض المتوسط فمن انا ؟</Q>
+    <Choix1>saharaplant.jpg</Choix1>
+    <Choix2>wheat.jpg</Choix2>
+    <Choix3>orangetree.jpg</Choix3>
+    <R>3</R>
+    <C>الحمضيات </C>
+  </Probleme14>
+</Enigmes>

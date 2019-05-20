@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<relier>
+
+  <questions1>
+    <question1>المياه الجوفية</question1>
+    <question1>البترول</question1>
+    <question1>الثروة السمكية</question1>
+    <question1>الثروة الغابية</question1>
+    <question1>مورد سطحي</question1>
+    <question1>مصدر للمياه</question1>
+    <question1>مصدر للطاقة</question1>
+    <question1>مورد بحري</question1>
+  </questions1>
+
+  <questions2>
+    <question2>اتساع المساحة</question2>
+    <question2>الموارد الطبيعية</question2>
+    <question2>التساقط</question2>
+    <question2>حاسي مسعود</question2>
+    <question2>تواجد البترول</question2>
+    <question2>سبب تنوع الموارد</question2>
+    <question2>على صورتها الأولية</question2>
+    <question2>مصدر للمياه</question2>
+  </questions2>
+
+  <questions3>
+    <question3>الأنهار</question3>
+    <question3>المرجان</question3>
+    <question3>الفحم الحجري</question3>
+    <question3>الحلفاء</question3>
+    <question3>مورد سطحي</question3>
+    <question3>لري الأراضي</question3>
+    <question3>مورد بحري</question3>
+    <question3>مورد باطني</question3>
+  </questions3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</relier>

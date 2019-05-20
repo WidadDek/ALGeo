@@ -1,0 +1,94 @@
+﻿<Page x:Class="AlGeo.Chapitre2.Cours.Page5"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo.Chapitre2.Cours"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1100"
+      Title="Page5"
+      Style="{DynamicResource StylePage}">
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource CoursAnimation2}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <RichTextBox x:Name="Title" Style="{DynamicResource StyleTitle}">
+            <RichTextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RichTextBox.RenderTransform>
+            <FlowDocument>
+                <Section>
+                    <Paragraph>
+                        <InlineUIContainer>
+                            <Image Source="../Images\field.png" Height="45" Width="45" />
+                        </InlineUIContainer>
+                        <Bold Foreground="Black">المجال الثاني :</Bold>
+                        المناخ و النبات
+                    </Paragraph>
+                </Section>
+            </FlowDocument>
+        </RichTextBox>
+
+        <RichTextBox x:Name="richTextBox" Style="{DynamicResource StyleCours}" >
+            <RichTextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RichTextBox.RenderTransform>
+            <FlowDocument>
+                <Section>
+                    <Paragraph>
+                        <Run Style="{DynamicResource SubtTitleStyle1}">ب. المناخ القاري:
+                        </Run>
+                        <LineBreak/>
+                        يسود في المناطق الداخلية البعيدة عن المؤثرات البحرية.
+                        <LineBreak/>
+                        يتميز بصيف حار وشتاء بارد و امطار قليلة.
+                        <LineBreak/>
+                        تزرع في هذا المناخ الحبوب خاصة القمح
+                        <InlineUIContainer>
+                            <Image Source="../Images\007-wheat.png" Height="40" Width="40"/>
+                        </InlineUIContainer>
+                        والشعير, كما تنمو به حشائش الاستبس
+                        <InlineUIContainer>
+                            <Image Source="../Images\014-grass.png" Height="40" Width="40"/>
+                        </InlineUIContainer>
+                        و تعيش به حيوانات مختلفة منها الأبقار و الماعز
+                        <InlineUIContainer>
+                            <Image Source="../Images\025-sheep.png" Height="40" Width="40"/>
+                        </InlineUIContainer>
+                        والخيول
+                        <InlineUIContainer>
+                            <Image Source="../Images\020-horse.png" Height="40" Width="40"/>
+                        </InlineUIContainer>
+                        .
+                    </Paragraph>
+                </Section>
+            </FlowDocument>
+        </RichTextBox>
+
+    </Grid>
+</Page>

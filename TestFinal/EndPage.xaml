@@ -1,0 +1,32 @@
+﻿<Page x:Class="AlGeo.EndPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="1100"
+      Title="EndPage">
+
+    <Grid >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="15*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="10*"/>
+            <ColumnDefinition Width="8*"/>
+
+        </Grid.ColumnDefinitions>
+        <Border  Background="#FF125065" BorderBrush="#FFEFD9DB" BorderThickness="0" CornerRadius="30" Grid.ColumnSpan="3"  Grid.RowSpan="2" Grid.Column="1" Grid.Row="1" Margin="-3.286,0,0,0"/>
+        <TextBlock  Name="CommentTBlk" FlowDirection="RightToLeft" VerticalAlignment="Center" HorizontalAlignment="Center" FontFamily="/AlGeo;component/Fonts/#El Messiri" FontSize="30" Foreground="White" FontWeight="Bold" Grid.Row="1" Grid.ColumnSpan="3" Grid.Column="1"/>
+        <!-- <Ellipse Grid.Column="2" Height="70" Width="70" Fill="#FF7F5158"  Grid.Row="2" Stroke="Black" Margin="31.667,3.428,31.666,69.428"/>-->
+
+    </Grid>
+</Page>

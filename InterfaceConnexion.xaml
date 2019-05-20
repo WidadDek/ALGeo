@@ -1,0 +1,98 @@
+﻿<Page x:Class="AlGeo.InterfaceConnexion"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="InterfaceConnexion"
+     Height="650" Width="1100" Background="#FF1ABC9C">
+    <Page.Resources>
+        <Storyboard x:Key="GridMove">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ConnexionGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-431.667"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-431.334"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="23.333"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="-70"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-23.333"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ConnexionGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-13.333"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-13"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-16.666"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.8" Value="-16.666"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="-18.333"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="GridColors" RepeatBehavior="Forever" AutoReverse="False">
+            <ColorAnimationUsingKeyFrames Storyboard.TargetProperty="(Panel.Background).(SolidColorBrush.Color)" Storyboard.TargetName="GridInterfacEntre">
+                <EasingColorKeyFrame KeyTime="0" Value="#FF1ABC9C"/>
+                <EasingColorKeyFrame KeyTime="0:0:1" Value="#FF39ADAC"/>
+                <EasingColorKeyFrame KeyTime="0:0:2" Value="#FF5AC3AC"/>
+                <EasingColorKeyFrame KeyTime="0:0:3" Value="#FF8DD6A0"/>
+                <EasingColorKeyFrame KeyTime="0:0:4" Value="#FFB8CE90"/>
+                <EasingColorKeyFrame KeyTime="0:0:5" Value="#FFD2AC87"/>
+                <EasingColorKeyFrame KeyTime="0:0:6" Value="#FFC49085"/>
+                <EasingColorKeyFrame KeyTime="0:0:8" Value="#FF5AC3AC"/>
+                <EasingColorKeyFrame KeyTime="0:0:9" Value="#FF39ADAC"/>
+                <EasingColorKeyFrame KeyTime="0:0:10" Value="#FF1ABC9C"/>
+            </ColorAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource GridMove}"/>
+            <BeginStoryboard Storyboard="{StaticResource GridColors}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <Grid x:Name="GridInterfacEntre" Width="1100" Background="#FF1ABC9C">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="363*"/>
+            <ColumnDefinition Width="504*"/>
+            <ColumnDefinition Width="227*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid x:Name="ConnexionGrid" Margin="138.737,106.997,-91.606,212.544" Grid.Column="1" RenderTransformOrigin="0.5,0.5" >
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Rectangle Fill="#FFEDEFF1" RadiusY="20" RadiusX="20" Stroke="Black" StrokeThickness="0" Margin="0,0,0,10"/>
+
+            <TextBox x:Name="txtUserName" Height="38" Margin="65,37,164.869,0" TextWrapping="Wrap" VerticalAlignment="Top"
+                     Background="White" FontSize="20" FontWeight="Bold" FontFamily="/AlGeo;component/Fonts/#El Messiri" FlowDirection="RightToLeft"/>
+            <PasswordBox x:Name="txtPassword" Margin="65,108,164.869,181.459" Background="White" FontSize="20" FlowDirection="RightToLeft" />
+            <Label x:Name="labelUserName" Content="اسم المستخدم" FontFamily="/AlGeo;component/Fonts/#El Messiri"  FontWeight="ExtraBold" 
+                   HorizontalAlignment="Right" Margin="0,33.779,10,0" Width="150.332" FlowDirection="RightToLeft" FontSize="20" Height="35.756" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment"/>
+            <Label x:Name="labelPassword" Content="كلمة المرور" FontFamily="/AlGeo;component/Fonts/#El Messiri" FontWeight="ExtraBold"  HorizontalAlignment="Right" 
+                   Margin="0,102.679,27.565,184.665" Width="120.202" FlowDirection="RightToLeft" FontSize="20" d:LayoutOverrides="HorizontalAlignment"/>
+            <Button x:Name="btnConnexion" Content="دخول" Style="{DynamicResource YellowButtonWhite}"  Height="38" Width="180" Margin="65.169,0,211.025,111.299" VerticalAlignment="Bottom"  Opacity="0.8" FontSize="20" Click="btnConnexion_Click"/>
+            <Button x:Name="btnCreerCompte" Content="أنا عضو جديد" Click="btnCreerCompte_Click" Style="{DynamicResource YellowButtonWhite}"  Height="38" Width="180" Margin="65.169,0,211.025,47.595" VerticalAlignment="Bottom"   FontSize="20"  />
+            <Image x:Name="errorImage" HorizontalAlignment="Left" Height="26" Margin="32.169,181.084,0,0" VerticalAlignment="Top" Width="28" Source="Images/Interface/Error-128.png" d:LayoutOverrides="HorizontalAlignment"/>
+        </Grid>
+
+        <Image x:Name="Earth" Margin="-153.633,280.123,0,0"  Grid.Column="2" Source="/Images/earth5.png"/>
+        <Image x:Name="Algeria" Margin="0,50,-177.26,0" Source=".\Images\Interface\1.png"/>
+        <Button x:Name="HelpButton" Content="Button" HorizontalAlignment="Left" Height="48" Margin="0,2,0,0" VerticalAlignment="Top" Width="54" Style="{DynamicResource ButtonStyleHelp}" Click="HelpButton_Click" RenderTransformOrigin="8.588,0.025"/>
+        <Image x:Name="books" Height="307.793" Margin="92.74,0,235.525,-56.781" VerticalAlignment="Bottom" Source="/Images/image1.png" Stretch="UniformToFill" RenderTransformOrigin="0.5,0.5" Grid.ColumnSpan="2">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.163"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.678"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="buttonAPropos" Content="Button" HorizontalAlignment="Left" Height="53.532" Margin="63.893,10.361,0,0" VerticalAlignment="Top" Width="55.259" Style="{DynamicResource ButtonStyleAPropos}" Click="buttonAPropos_Click"/>
+
+    </Grid>
+
+</Page>

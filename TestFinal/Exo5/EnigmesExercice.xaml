@@ -1,0 +1,224 @@
+﻿<Page x:Class="AlGeo.TestFinal.Exo5.EnigmesExercice"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo.TestFinal.Exo5"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="EnigmesExercice" Height="451" Width="1100">
+
+
+
+    <Page.Resources>
+        <Storyboard x:Key="ZoomImage1">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="ImageChoix1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.243"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ImageChoix1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="ImageChoix1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.223"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ImageChoix1">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0.334"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="ZoomImage2">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="ImageChoix2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.247"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ImageChoix2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="ImageChoix2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.191"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ImageChoix2">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0.334"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="ZoomImage3">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="ImageChoix3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.212"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="ImageChoix3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="ImageChoix3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="1"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="1.173"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="ImageChoix3">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="0.334"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="CanvasMove">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="canvas">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-156"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="87.935"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="4"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="canvas">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.3" Value="-3.761"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="-2"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+
+
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="ImageChoix1">
+            <BeginStoryboard x:Name="ZoomImage1_BeginStoryboard" Storyboard="{StaticResource ZoomImage1}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="ImageChoix1">
+            <StopStoryboard BeginStoryboardName="ZoomImage1_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="ImageChoix2">
+            <BeginStoryboard x:Name="ZoomImage2_BeginStoryboard" Storyboard="{StaticResource ZoomImage2}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="ImageChoix2">
+            <StopStoryboard BeginStoryboardName="ZoomImage2_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseEnter" SourceName="ImageChoix3" >
+            <BeginStoryboard x:Name="ZoomImage3_BeginStoryboard" Storyboard="{StaticResource ZoomImage3}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="UIElement.MouseLeave" SourceName="ImageChoix3">
+            <StopStoryboard BeginStoryboardName="ZoomImage3_BeginStoryboard"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard x:Name="CanvasMove_BeginStoryboard" Storyboard="{StaticResource CanvasMove}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="Next">
+            <BeginStoryboard x:Name="CanvasMove_BeginStoryboard1" Storyboard="{StaticResource CanvasMove}"/>
+        </EventTrigger>
+    </Page.Triggers>
+
+    <!-- <Storyboard x:Key="StoryboardVF" RepeatBehavior="1x">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="VFGrid">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.2">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <ExponentialEase EasingMode="EaseOut"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="canvas">
+                <EasingDoubleKeyFrame KeyTime="0" Value="-308"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="-2">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <ElasticEase EasingMode="EaseOut" Oscillations="1" Springiness="1"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded"/>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource StoryboardVF}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="Ok">
+            <BeginStoryboard Storyboard="{StaticResource StoryboardVF}"/>
+        </EventTrigger>
+    </Page.Triggers>   -->
+
+    <!-- debut -->
+    <Grid Background="#FF125065" x:Name="ExoGrid">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="165*"/>
+            <ColumnDefinition Width="237*"/>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="231*"/>
+            <ColumnDefinition Width="32*"/>
+            <ColumnDefinition Width="230*"/>
+            <ColumnDefinition Width="172*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="151*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="170*"/>
+            <RowDefinition Height="100*"/>
+        </Grid.RowDefinitions>
+
+
+        <!--<Image x:Name="image"  Grid.Column="2" HorizontalAlignment="Center" VerticalAlignment="Bottom"   Width="155" Source="Images/Earth.png" Stretch="UniformToFill" Grid.RowSpan="2" Margin="315.357,0,315.357,-20"/>-->
+        <Canvas Name="canvas" Grid.ColumnSpan="5" Grid.Column="1" Margin="10,0,0,0" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Canvas.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Canvas.RenderTransform>
+
+            <RichTextBox x:Name="QuestionRtb"    Style="{DynamicResource StyleRTBVF}" Background="#FFF1C20F"  BorderBrush="#FF455799"  Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="0" RenderTransformOrigin="0.5,0.5" Canvas.Top="28.092" Canvas.Left="20.195" Width="682.568" Height="112.908">
+                <FlowDocument>
+                    <Paragraph TextAlignment="Center">
+                        <LineBreak/>
+                        <Span Name="Question"></Span>
+
+                    </Paragraph>
+
+                </FlowDocument>
+            </RichTextBox>
+            <Image x:Name="image" Stretch="UniformToFill" Grid.RowSpan="2" Grid.Column="1" HorizontalAlignment="Left" Width="143" Height="123" Canvas.Left="37.528" Canvas.Top="-14.308" />
+
+        </Canvas>
+        <Button x:Name="Ok" Content="تاكيد الاجابة"   Style="{DynamicResource StyleBtnVF}" Background="Gold"  Click="Ok_Click"  Grid.Column="4" Grid.Row="3" Margin="-63.9,43.334,-74.73,10" Height="Auto" Width="Auto" d:LayoutOverrides="LeftMargin, RightMargin" Visibility="Hidden" />
+        <Button x:Name="Next" Content="السؤال التالي"   Style="{DynamicResource StyleBtnVF}" Background="Gold"  Click="Next_Click"  Grid.Column="2" Grid.Row="3"  Width="Auto" Margin="-82.467,43.334,-84.828,10" Height="Auto" d:LayoutOverrides="LeftMargin, RightMargin" Visibility="Hidden"/>
+        <ProgressBar x:Name="ScorePB" Style="{DynamicResource StyleProgressBarVF}" Maximum="120" Width="Auto" Background="White" Foreground="#FF04F03D" Grid.Row="0" Visibility="Hidden" Margin="-85,0,109,75" Grid.ColumnSpan="4" Height="0" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" VerticalAlignment="Bottom"/>
+        <TextBlock x:Name="ScoreShowTB" Style="{DynamicResource StyleTBlkVF}" VerticalAlignment="Top" HorizontalAlignment="Stretch" Grid.Column="4" Width="Auto" Margin="-12.368,10,77.062,0" Height="59.538" Grid.ColumnSpan="2" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin"/>
+
+        <TextBlock Name="ScoreTB" Style="{DynamicResource StyleTBlkVF}" Height="Auto"  Width="Auto"  HorizontalAlignment="Stretch" Margin="4,10,10,57.684" d:LayoutOverrides="HorizontalAlignment, LeftMargin, RightMargin, TopMargin, BottomMargin" Grid.Column="6" VerticalAlignment="Stretch"/>
+        <Frame x:Name="StartFrame" Grid.ColumnSpan="7" Grid.Row="0"  Grid.RowSpan="4" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin"/>
+        <Image x:Name="ImageChoix3" Grid.Column="1" Grid.Row="2" MouseDown="ImageChoix3_MouseDown" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="ImageChoix1" Grid.Column="5" Grid.Row="2" MouseDown="ImageChoix1_MouseDown" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="ImageChoix2" Grid.Column="3" Grid.Row="2" MouseDown="ImageChoix2_MouseDown" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Button x:Name="HelpBtn" Content="Button" HorizontalAlignment="Left" Height="48" Margin="21.956,12,0,0" VerticalAlignment="Top" Width="54" Style="{DynamicResource ButtonStyleHelp}" RenderTransformOrigin="8.588,0.025" Click="ClickHelp"/>
+
+    </Grid>
+</Page>

@@ -1,0 +1,122 @@
+﻿<Page x:Class="AlGeo.Chapitre2.Cours.Page4"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo.Chapitre2.Cours"
+      mc:Ignorable="d" 
+      d:DesignHeight="650" d:DesignWidth="1100"
+      Title="Page4"
+      Style="{DynamicResource StylePage}">
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource CoursAnimation2}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="25*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <RichTextBox x:Name="Title" Style="{DynamicResource StyleTitle}">
+            <RichTextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RichTextBox.RenderTransform>
+            <FlowDocument>
+                <Section>
+                    <Paragraph>
+                        <InlineUIContainer>
+                            <Image Source="../Images\field.png" Height="45" Width="45" />
+                        </InlineUIContainer>
+                        <Bold Foreground="Black">المجال الثاني :</Bold>
+                        المناخ و النبات
+                    </Paragraph>
+                </Section>
+            </FlowDocument>
+        </RichTextBox>
+
+        <RichTextBox x:Name="richTextBox" Style="{DynamicResource StyleCours}">
+            <RichTextBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </RichTextBox.RenderTransform>
+            <FlowDocument>
+                <Section>
+                    <Paragraph>
+                        <Run Text="أ. مناخ البحر الأبيض المتوسط :">
+                            <Run.Style>
+                                <Style TargetType="{x:Type Run}">
+                                    <Setter Property="Foreground" Value="#FF0DB14B"/>
+                                    <Setter Property="FontSize" Value="33"/>
+                                </Style>
+                            </Run.Style>
+                        </Run>
+                        <LineBreak/>
+                        <Run Text="يوجد شمال الجزائر في المنطقة الممتدة من البحر "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\004-sea-1.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text="إلى السلسلة الجبلية التلية"/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\002-icicle.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" يمتز بفصلين من حيث الحرارة "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\001-temperature.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" و التساقط."/>
+                        <Run Text="تختلف كمية التساقط من 400 ملم غربا،إلى 1000ملم شرقا. تنمو به أشجار الارز "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\010-cedar.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" ، والصنوبر "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\022-spruce.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" ، والفلين، والكروم "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\009-grape.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" ، والزيتون. "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\008-olives.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" ،تعيش به حيوانات عديدة منها: الأغنام "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\025-sheep.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text=" الأبقار، "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\024-cow.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+
+                        <Run Text=" الذئاب "/>
+                        <InlineUIContainer>
+                            <Image Source="../Images\023-wolf.png" Height="40" Width="40" />
+                        </InlineUIContainer>
+                        <Run Text="."/>
+                    </Paragraph>
+                </Section>
+            </FlowDocument>
+        </RichTextBox>
+    </Grid>
+</Page>
+

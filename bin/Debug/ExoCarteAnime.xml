@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Exo1>
+  <prop1>مناخ البحر الأبيض المتوسط</prop1>
+  <prop1>المناخ القاري</prop1>
+  <prop1>المناخ الصحراوي</prop1>
+  <prop2>موارد سطحية</prop2>
+  <prop2>موارد بحرية </prop2>
+  <prop2>موارد باطنية</prop2>
+  <prop3>موارد سطحية </prop3>
+  <prop3>موارد بحرية</prop3>
+  <prop3>موارد باطنية </prop3>
+  <prop4>مناخ البحر الأبيض المتوسط</prop4>
+  <prop4>المناخ القاري</prop4>
+  <prop4>المناخ الصحراوي</prop4>
+  <prop5>مناخ البحر الأبيض المتوسط</prop5>
+  <prop5>المناخ القاري</prop5>
+  <prop5>المناخ الصحراوي</prop5>
+  <prop6>موارد سطحية </prop6>
+  <prop6>موارد بحرية </prop6>
+  <prop6>موارد باطنية </prop6>
+  <prop7>منطقة ساحلية </prop7>
+  <prop7>منطقة داخلية</prop7>
+  <prop7>منطقة صحراوية </prop7>
+  <prop8>سهول </prop8>
+  <prop8>هضاب </prop8>
+  <prop8>صحراء </prop8>
+  <rep1>3</rep1>
+  <rep2>2</rep2>
+  <rep3>3</rep3>
+  <rep4>1</rep4>
+  <rep5>2</rep5>
+  <rep6>1</rep6>
+  <rep7>1</rep7>
+  <rep8>3</rep8>
+  <Score>0</Score>
+</Exo1>

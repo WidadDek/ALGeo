@@ -1,0 +1,47 @@
+﻿<UserControl x:Class="AlGeo.Views.StartMenuView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AlGeo.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="800">
+    <Grid >
+        <Grid.Background>
+            <ImageBrush Stretch="UniformToFill" ImageSource="/AlGeo;component/Assets/black_background.jpg"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock x:Name="___TextBlock___لعبة_الذاكرة_" HorizontalAlignment="Center" Margin="10" Grid.ColumnSpan="4" Foreground="#FFE74C3C" FontSize="72" FontFamily="/AlGeo;component/Fonts/#El Messiri" Text="لعبة الذاكرة"/>
+        <DockPanel LastChildFill="False" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBlock DockPanel.Dock="Top" Foreground="#FFE74C3C" FontSize="30" FrameworkElement.FlowDirection="RightToLeft" FontFamily="/AlGeo;component/Fonts/#El Messiri" Margin="114.146,0,141.951,0" FontWeight="Bold"><Run FlowDirection="RightToLeft" Text="اختر تصنيف"/></TextBlock>
+            <ComboBox Margin="10" DockPanel.Dock="Top" x:Name="categoryBox" FontFamily="/AlGeo;component/Fonts/#El Messiri" FontSize="20" Foreground="#FFE74C3C" Background="#FFF39C12" BorderBrush="#FFF39C12" FlowDirection="RightToLeft" SelectionChanged="selectionChanged">
+                <ComboBox.Items>
+                    <ComboBoxItem Content="الحيوانات" FlowDirection="RightToLeft"/>
+                    <ComboBoxItem FlowDirection="RightToLeft" Content="السيارات"/>
+                    <ComboBoxItem Content="الأطعمة" FlowDirection="RightToLeft"/>
+                </ComboBox.Items>
+            </ComboBox>
+            <Button  Name="StartGame" DockPanel.Dock="Top" Padding="25" Click="Play_Clicked"  IsEnabled="False" Background="#FFE74C3C" Foreground="#FFF3FF00" FontSize="30" Content="ابدأ اللعبة" FlowDirection="RightToLeft" Style="{DynamicResource BorderButton}" RenderTransformOrigin="0.5,0.5">
+                <Button.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.031"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Button.RenderTransform>
+            </Button>
+        </DockPanel>
+    </Grid>
+</UserControl>

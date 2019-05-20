@@ -1,0 +1,1462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7CF70D88-020D-4653-8ECA-550BD1686C4D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AlGeo</RootNamespace>
+    <AssemblyName>AlGeo</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <ExpressionBlendVersion>12.0.41002.1</ExpressionBlendVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Expression.Drawing, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Animations.cs" />
+    <Compile Include="ApplicationWindow.xaml.cs">
+      <DependentUpon>ApplicationWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Apropos.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page1.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page2.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page3.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page4.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page5.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page6.xaml.cs" />
+    <Compile Include="Chapitre1\Cours\Page7.xaml.cs" />
+    <Compile Include="Cours.cs" />
+    <Compile Include="EndExoTestFinal.xaml.cs">
+      <DependentUpon>EndExoTestFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EndPageExo.xaml.cs">
+      <DependentUpon>EndPageExo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Exercice.cs" />
+    <Compile Include="ExerciceRemplirTableau1.xaml.cs">
+      <DependentUpon>ExerciceRemplirTableau1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciceRemplirTableau2.xaml.cs">
+      <DependentUpon>ExerciceRemplirTableau2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ExerciceRemplirTableau3.xaml.cs">
+      <DependentUpon>ExerciceRemplirTableau3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreAffichageScoreTestFinal.xaml.cs">
+      <DependentUpon>FenetreAffichageScoreTestFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreDeDialogueCours.xaml.cs">
+      <DependentUpon>FenetreDeDialogueCours.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreEndExo.xaml.cs">
+      <DependentUpon>FenetreEndExo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreHelp.xaml.cs">
+      <DependentUpon>FenetreHelp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FenetreQuitterCours.xaml.cs">
+      <DependentUpon>FenetreQuitterCours.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpDeExo\HelpExo.xaml.cs">
+      <DependentUpon>HelpExo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="IExerciceTypeQuestionnaire.cs" />
+    <Compile Include="InterfaceAdministrateur.xaml.cs">
+      <DependentUpon>InterfaceAdministrateur.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceBonus.xaml.cs">
+      <DependentUpon>InterfaceBonus.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceConnexion.xaml.cs">
+      <DependentUpon>InterfaceConnexion.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceCorrectionTestFinal.xaml.cs">
+      <DependentUpon>InterfaceCorrectionTestFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceCours.xaml.cs">
+      <DependentUpon>InterfaceCours.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceEnigme.xaml.cs">
+      <DependentUpon>InterfaceEnigme.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExercice.xaml.cs">
+      <DependentUpon>InterfaceExercice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExerciceQCM.xaml.cs">
+      <DependentUpon>InterfaceExerciceQCM.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExerciceRemplirChamp1.xaml.cs">
+      <DependentUpon>InterfaceExerciceRemplirChamp1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExerciceRemplirChamp2.xaml.cs">
+      <DependentUpon>InterfaceExerciceRemplirChamp2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExerciceRemplirChamp3.xaml.cs">
+      <DependentUpon>InterfaceExerciceRemplirChamp3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExitApp.xaml.cs">
+      <DependentUpon>InterfaceExitApp.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceExo1TestFinal.xaml.cs" />
+    <Compile Include="InterfaceExolier.xaml.cs">
+      <DependentUpon>InterfaceExolier.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceHomePage.xaml.cs">
+      <DependentUpon>InterfaceHomePage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceTestFinal.xaml.cs">
+      <DependentUpon>InterfaceTestFinal.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="JeuBonus\CartesAnimes\Page1.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page2.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page3.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page4.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page5.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page6.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page7.xaml.cs" />
+    <Compile Include="JeuBonus\CartesAnimes\Page8.xaml.cs" />
+    <Compile Include="Coloriage.xaml.cs">
+      <DependentUpon>Coloriage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MemoryGame.xaml.cs" />
+    <Compile Include="Models\PictureModel.cs" />
+    <Compile Include="Securite.cs" />
+    <Compile Include="SoundManager.cs" />
+    <Compile Include="StartExoWindow.xaml.cs">
+      <DependentUpon>StartExoWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\EndPage.xaml.cs">
+      <DependentUpon>EndPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo1\CorrigeExerciceVraiOuFaux.xaml.cs">
+      <DependentUpon>CorrigeExerciceVraiOuFaux.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo1\ExerciceVraiOuFaux.xaml.cs">
+      <DependentUpon>ExerciceVraiOuFaux.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo2\CorrigerExercice2.xaml.cs">
+      <DependentUpon>CorrigerExercice2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo2\Exercice2.xaml.cs">
+      <DependentUpon>Exercice2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo3\CorrigeExoDevineMot.xaml.cs" />
+    <Compile Include="TestFinal\Exo3\ExoDevineMot.xaml.cs" />
+    <Compile Include="TestFinal\Exo4\CorrigerRelier.xaml.cs">
+      <DependentUpon>CorrigerRelier.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo4\ExerciceRelier.xaml.cs">
+      <DependentUpon>ExerciceRelier.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo5\EnigmesCorrection.xaml.cs">
+      <DependentUpon>EnigmesCorrection.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="TestFinal\Exo5\EnigmesExercice.xaml.cs">
+      <DependentUpon>EnigmesExercice.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ViewModels\GameInfoViewModel.cs" />
+    <Compile Include="ViewModels\GameViewModel.cs" />
+    <Compile Include="ViewModels\ObservableObject.cs" />
+    <Compile Include="ViewModels\PictureViewModel.cs" />
+    <Compile Include="ViewModels\SlideCollectionViewModel.cs" />
+    <Compile Include="ViewModels\StartMenuViewModel.cs" />
+    <Compile Include="ViewModels\TimerViewModel.cs" />
+    <Compile Include="Views\MainMenuView.xaml.cs" />
+    <Compile Include="Views\StartMenuView.xaml.cs" />
+    <Compile Include="WilayaInforamation.xaml.cs">
+      <DependentUpon>WilayaInforamation.xaml</DependentUpon>
+    </Compile>
+    <Page Include="ApplicationWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Apropos.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre1\Cours\Page7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre2\Cours\Page8.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Chapitre3\Cours\Page6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DictionnaireCours.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DictionnaireExitButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="DictionnaireRemplirChamps.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DictionnaireTestFinal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="DictionnaireVraiOuFaux.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="EndExoTestFinal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="EndPageExo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExerciceRemplirTableau1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExerciceRemplirTableau2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ExerciceRemplirTableau3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreAffichageScoreTestFinal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreDeDialogueCours.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreEndExo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreHelp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FenetreQuitterCours.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpDeExo\HelpExo.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="InterfaceAdministrateur.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="InterfaceBonus.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceChapitre1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceChapitre2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceChapitre3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceConnexion.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceCorrectionTestFinal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceCours.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceCreateAccount.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceDemarrage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceEnigme.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExercice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExerciceQCM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExerciceRemplirChamp1.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExerciceRemplirChamp2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExerciceRemplirChamp3.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExitApp.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceExo1TestFinal.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="InterfaceExolier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceHomePage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceMessageBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="InterfaceTestFinal.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page3.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page4.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page5.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page6.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page7.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="JeuBonus\CartesAnimes\Page8.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page3.xaml.cs">
+      <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page4.xaml.cs">
+      <DependentUpon>Page4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page5.xaml.cs">
+      <DependentUpon>Page5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page6.xaml.cs">
+      <DependentUpon>Page6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page7.xaml.cs">
+      <DependentUpon>Page7.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre2\Cours\Page8.xaml.cs">
+      <DependentUpon>Page8.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page1.xaml.cs">
+      <DependentUpon>Page1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page2.xaml.cs">
+      <DependentUpon>Page2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page3.xaml.cs">
+      <DependentUpon>Page3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page4.xaml.cs">
+      <DependentUpon>Page4.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page5.xaml.cs">
+      <DependentUpon>Page5.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chapitre3\Cours\Page6.xaml.cs">
+      <DependentUpon>Page6.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ConnexionToDataBase.cs" />
+    <Compile Include="Eleve.cs" />
+    <Compile Include="InterfaceChapitre1.xaml.cs">
+      <DependentUpon>InterfaceChapitre1.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceChapitre2.xaml.cs">
+      <DependentUpon>InterfaceChapitre2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceChapitre3.xaml.cs">
+      <DependentUpon>InterfaceChapitre3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceCreateAccount.xaml.cs">
+      <DependentUpon>InterfaceCreateAccount.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceDemarrage.xaml.cs">
+      <DependentUpon>InterfaceDemarrage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="InterfaceMessageBox.xaml.cs">
+      <DependentUpon>InterfaceMessageBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Coloriage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MemoryGame.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="RadionButtonStyleForQCM.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Simple Styles.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="StartExoWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\EndPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo1\CorrigeExerciceVraiOuFaux.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo1\ExerciceVraiOuFaux.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo2\CorrigerExercice2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo2\Exercice2.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo3\CorrigeExoDevineMot.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TestFinal\Exo3\ExoDevineMot.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="TestFinal\Exo4\CorrigerRelier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo4\ExerciceRelier.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo5\EnigmesCorrection.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="TestFinal\Exo5\EnigmesExercice.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\MainMenuView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Views\StartMenuView.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="WilayaInforamation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Assets\Cars\Thumbs.db" />
+    <None Include="bin\Debug\Assets\Cars\Thumbs.db" />
+    <None Include="TestFinal\Exo2\Images\Thumbs.db" />
+    <Resource Include="Fonts\notonaskharabic.ttf" />
+    <Resource Include="Fonts\souria.ttf" />
+    <Resource Include="Fonts\www.Brushez.com-ElMessiri-Bold.otf" />
+    <Resource Include="Fonts\www.Brushez.com-VIP-Arabic-Typo.otf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="HelpDeExo\Images\tree.png" />
+    <Resource Include="Images\Interface\po.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\Bulb.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\algeriaredmap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\2-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\slide1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\chap3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\tache1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\Error-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\desert-sahara.jpg" />
+    <Resource Include="Images\Interface\kipr.jpg" />
+    <Resource Include="Images\Interface\poo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\PixeledPaperDesigns_jaune.png" />
+    <Resource Include="Images\Interface\PixeledPaperDesigns_RED.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\orange-arrow-right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\questions.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\tree.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Chapitre2\Cours\mounakh9ari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Chapitre2\Cours\sun.png" />
+    <Resource Include="Images\Chapitre2\Cours\Cloud.png" />
+    <Resource Include="Images\Chapitre2\Cours\sunfactcloud.png" />
+    <Resource Include="Images\Chapitre2\Cours\pluie.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Chapitre2\Cours\soleil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Chapitre2\Cours\placebutton.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\question.png" />
+    <Resource Include="Images\Interface\test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\boat-1.png" />
+    <Resource Include="Images\brainstorm.png" />
+    <Resource Include="Chapitre1\Images\chlef.jpg" />
+    <Resource Include="Images\desert-1.png" />
+    <Resource Include="Images\desert.png" />
+    <Resource Include="Images\field.png" />
+    <Resource Include="Images\graduate.png" />
+    <Resource Include="Images\image00.jpg" />
+    <Resource Include="Chapitre1\Images\img_sud.png" />
+    <Resource Include="Images\learning.png" />
+    <Resource Include="Images\map.png" />
+    <Resource Include="Chapitre1\Images\metija.jpg" />
+    <Resource Include="Images\mountains.png" />
+    <Resource Include="Chapitre1\Images\sebkhaOran.jpg" />
+    <Resource Include="Images\siteoforigin.gif" />
+    <Resource Include="Images\sky.png" />
+    <Resource Include="Images\valley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre3\Images\bg.jpg" />
+    <Resource Include="Chapitre3\Images\boat-1.png" />
+    <Resource Include="Chapitre3\Images\brainstorm.png" />
+    <Resource Include="Chapitre3\Images\Deer2.jpg" />
+    <Resource Include="Chapitre3\Images\desert-1.png" />
+    <Resource Include="Chapitre3\Images\desert.png" />
+    <Resource Include="Chapitre3\Images\earth-globe.png" />
+    <Resource Include="Chapitre3\Images\geography-2.png" />
+    <Resource Include="Chapitre3\Images\geography.png" />
+    <Resource Include="Chapitre3\Images\grass1.jpg" />
+    <Resource Include="Chapitre3\Images\idea.png" />
+    <Resource Include="Chapitre3\Images\Lake.jpg" />
+    <Resource Include="Chapitre3\Images\question.png" />
+    <Resource Include="Chapitre3\Images\Rain1.jpg" />
+    <Resource Include="Chapitre3\Images\River.jpg" />
+    <Resource Include="Chapitre3\Images\River1.jpg" />
+    <Resource Include="Chapitre3\Images\Roche1.JPG" />
+    <Resource Include="Chapitre3\Images\Snow1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre2\Images\001-snake.png" />
+    <Resource Include="Chapitre2\Images\001-snowflake.png" />
+    <Resource Include="Chapitre2\Images\001-temperature.png" />
+    <Resource Include="Chapitre2\Images\002-boat.png" />
+    <Resource Include="Chapitre2\Images\002-icicle.png" />
+    <Resource Include="Chapitre2\Images\002-scorpion.png" />
+    <Resource Include="Chapitre2\Images\002-tornado.png" />
+    <Resource Include="Chapitre2\Images\003-hyena.png" />
+    <Resource Include="Chapitre2\Images\003-sea.png" />
+    <Resource Include="Chapitre2\Images\004-deer.png" />
+    <Resource Include="Chapitre2\Images\004-sea-1.png" />
+    <Resource Include="Chapitre2\Images\004-weather.png" />
+    <Resource Include="Chapitre2\Images\005-camel-1.png" />
+    <Resource Include="Chapitre2\Images\006-camel.png" />
+    <Resource Include="Chapitre2\Images\007-wheat.png" />
+    <Resource Include="Chapitre2\Images\008-olives.png" />
+    <Resource Include="Chapitre2\Images\009-grape.png" />
+    <Resource Include="Chapitre2\Images\010-cedar.png" />
+    <Resource Include="Chapitre2\Images\014-grass.png" />
+    <Resource Include="Chapitre2\Images\015-drops.png" />
+    <Resource Include="Chapitre2\Images\016-water.png" />
+    <Resource Include="Chapitre2\Images\018-sun.png" />
+    <Resource Include="Chapitre2\Images\019-thermometer.png" />
+    <Resource Include="Chapitre2\Images\020-horse.png" />
+    <Resource Include="Chapitre2\Images\022-spruce.png" />
+    <Resource Include="Chapitre2\Images\023-wolf.png" />
+    <Resource Include="Chapitre2\Images\024-cow.png" />
+    <Resource Include="Chapitre2\Images\025-sheep.png" />
+    <Resource Include="Chapitre2\Images\atlas.png" />
+    <Resource Include="Chapitre2\Images\BahrMoutawassit.png" />
+    <Resource Include="Chapitre2\Images\bg.jpg" />
+    <Resource Include="Chapitre2\Images\boat-1.png" />
+    <Resource Include="Chapitre2\Images\brainstorm.png" />
+    <Resource Include="Chapitre2\Images\Cloud.png" />
+    <Resource Include="Chapitre2\Images\daradjat.png" />
+    <Resource Include="Chapitre2\Images\Deer2.jpg" />
+    <Resource Include="Chapitre2\Images\desert-1.png" />
+    <Resource Include="Chapitre2\Images\desert.png" />
+    <Resource Include="Chapitre2\Images\earth-globe.png" />
+    <Resource Include="Chapitre2\Images\field.png" />
+    <Resource Include="Chapitre2\Images\geography-2.png" />
+    <Resource Include="Chapitre2\Images\geography.png" />
+    <Resource Include="Chapitre2\Images\glasses.png" />
+    <Resource Include="Chapitre2\Images\grass1.jpg" />
+    <Resource Include="Chapitre2\Images\idea.png" />
+    <Resource Include="Chapitre2\Images\Lake.jpg" />
+    <Resource Include="Chapitre2\Images\mounakh9ari.png" />
+    <Resource Include="Chapitre2\Images\MounakhKari.png" />
+    <Resource Include="Chapitre2\Images\MounakhSahraoui.png" />
+    <Resource Include="Chapitre2\Images\placebutton.png" />
+    <Resource Include="Chapitre2\Images\pluie.png" />
+    <Resource Include="Chapitre2\Images\question.png" />
+    <Resource Include="Chapitre2\Images\Rain1.jpg" />
+    <Resource Include="Chapitre2\Images\River.jpg" />
+    <Resource Include="Chapitre2\Images\River1.jpg" />
+    <Resource Include="Chapitre2\Images\Roche1.JPG" />
+    <Resource Include="Chapitre2\Images\sahil.png" />
+    <Resource Include="Chapitre2\Images\Snow1.jpg" />
+    <Resource Include="Chapitre2\Images\soleil.png" />
+    <Resource Include="Chapitre2\Images\sun.png" />
+    <Resource Include="Chapitre2\Images\sunfactcloud.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\atlas.png" />
+    <Resource Include="Chapitre1\Images\boat-1.png" />
+    <Resource Include="Chapitre1\Images\brainstorm.png" />
+    <Resource Include="Chapitre1\Images\desert-1.png" />
+    <Resource Include="Chapitre1\Images\desert.png" />
+    <Resource Include="Chapitre1\Images\field.png" />
+    <Resource Include="Chapitre1\Images\graduate.png" />
+    <Resource Include="Chapitre1\Images\image00.jpg" />
+    <Resource Include="Chapitre1\Images\irkcharki.jpg" />
+    <Resource Include="Chapitre1\Images\IrkGharbi.jpg" />
+    <Resource Include="Chapitre1\Images\kharita1.jpg" />
+    <Resource Include="Chapitre1\Images\kharita2.jpg" />
+    <Resource Include="Chapitre1\Images\kharita3.jpg" />
+    <Resource Include="Chapitre1\Images\kharita4.jpg" />
+    <Resource Include="Chapitre1\Images\learning.png" />
+    <Resource Include="Chapitre1\Images\map.png" />
+    <Resource Include="Chapitre1\Images\mountains.png" />
+    <Resource Include="Chapitre1\Images\rik.JPG" />
+    <Resource Include="Chapitre1\Images\sahil.png" />
+    <Resource Include="Chapitre1\Images\setif.jpg" />
+    <Resource Include="Chapitre1\Images\sky.png" />
+    <Resource Include="Chapitre1\Images\tadmait.jpg" />
+    <Resource Include="Chapitre1\Images\tahat.jpg" />
+    <Resource Include="Chapitre1\Images\valley.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="bin\Debug\NombreDePageParChapitre.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+    <Resource Include="bin\Debug\XMLFile.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\img_nord3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\pointer3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\sidiabdeli.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\tlemcen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Chapitre1\Images\metidja.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\A32-CurvedArrow-Orange.png" />
+    <Resource Include="Images\Interface\Acceuil.png" />
+    <Resource Include="Images\Interface\Acceuil2.png" />
+    <Resource Include="Images\Interface\arrow-140-512 %281%29.png" />
+    <Resource Include="Images\Interface\arrow-140-512.png" />
+    <Resource Include="Images\Interface\FirstArrow.png" />
+    <Resource Include="Images\Interface\orange-arrow-left-coupe.png" />
+    <Resource Include="Images\Interface\orange-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\bouleJaune.png" />
+    <Resource Include="Images\Interface\cacherSolution.png" />
+    <Resource Include="Images\Interface\QuitterC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\QuitterCOrange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\like2.png" />
+    <Resource Include="Images\Interface\r1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\field.png" />
+    <Resource Include="Images\Interface\i1.jpg" />
+    <Resource Include="Images\Interface\i2.png" />
+    <Resource Include="Images\Interface\i3.png" />
+    <Resource Include="Images\Interface\i4.png" />
+    <Resource Include="Images\Interface\metija.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\i1.png" />
+    <Resource Include="Images\i2.png" />
+    <Resource Include="Images\i3.png" />
+    <Resource Include="Images\i4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\004-deer.png" />
+    <Resource Include="Images\Interface\012-palm-tree.png" />
+    <Resource Include="Images\Interface\014-grass.png" />
+    <Resource Include="Images\Interface\021-forest.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Interface\Nextarrow.png" />
+    <Resource Include="bin\Debug\ExoCarteAnime.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+    <Resource Include="Chapitre3\Images\banc-poisson.jpg" />
+    <Resource Include="Chapitre3\Images\corail.jpg" />
+    <Resource Include="Chapitre3\Images\farm-animals.jpg" />
+    <Resource Include="Chapitre3\Images\forest.jpg" />
+    <Resource Include="Chapitre3\Images\halfa.jpg" />
+    <Resource Include="Chapitre3\Images\maadin.jpg" />
+    <Resource Include="Chapitre3\Images\merou.jpg" />
+    <Resource Include="Chapitre3\Images\nap-soutterainne.jpg" />
+    <Resource Include="Chapitre3\Images\or et argent.jpeg" />
+    <Resource Include="Chapitre3\Images\perle.jpg" />
+    <Resource Include="Chapitre3\Images\petrol-1.jpg" />
+    <Resource Include="Chapitre3\Images\petrol.jpg" />
+    <Resource Include="Chapitre1\Images\waves4.png" />
+    <Resource Include="Chapitre3\Images\usine6.png" />
+    <Resource Include="Chapitre3\Images\petrole4.png" />
+    <Resource Include="Chapitre3\Images\p1.png" />
+    <Resource Include="Chapitre3\Images\pointer7.png" />
+    <Resource Include="Chapitre3\Images\pointer8.png" />
+    <Resource Include="Chapitre3\Images\pointer6.png" />
+    <Resource Include="Chapitre3\Images\pointer5.png" />
+    <Resource Include="Chapitre3\Images\pointer4.png" />
+    <Resource Include="Chapitre3\Images\map-marker.png" />
+    <Resource Include="Chapitre3\Images\map-marker-blue.png" />
+    <Resource Include="TestFinal\Exo2\Images\001-gas-level.png" />
+    <Resource Include="TestFinal\Exo2\Images\002-coal.png" />
+    <Resource Include="TestFinal\Exo2\Images\002-fuel.png" />
+    <Resource Include="TestFinal\Exo2\Images\003-gas-station.png" />
+    <Resource Include="TestFinal\Exo2\Images\004-coral.png" />
+    <Resource Include="TestFinal\Exo2\Images\006-gold-ingots.png" />
+    <Resource Include="TestFinal\Exo2\Images\010-sea-bottom.png" />
+    <Resource Include="TestFinal\Exo2\Images\False.png" />
+    <Resource Include="TestFinal\Exo2\Images\image1.png" />
+    <Resource Include="TestFinal\Exo2\Images\placebutton.png" />
+    <Resource Include="TestFinal\Exo4\Images\geography-1.png" />
+    <Resource Include="TestFinal\Exo4\Images\001-temperature.png" />
+    <Resource Include="TestFinal\Exo4\Images\003-sea.png" />
+    <Resource Include="TestFinal\Exo4\Images\004-weather.png" />
+    <Resource Include="TestFinal\Exo4\Images\desert-1.png" />
+    <Resource Include="TestFinal\Exo4\Images\exam.png" />
+    <Resource Include="TestFinal\Exo4\Images\question.png" />
+    <Resource Include="Images\placebutton.png" />
+    <Resource Include="bin\Debug\VraiOuFauxFile.xml" />
+    <Resource Include="TestFinal\Exo1\Images\alarm-clock.png" />
+    <Resource Include="TestFinal\Exo1\Images\image0.png" />
+    <Resource Include="TestFinal\Exo1\Images\image1.png" />
+    <Resource Include="TestFinal\Exo1\Images\image2.png" />
+    <Resource Include="TestFinal\Exo1\Images\learning.png" />
+    <Resource Include="Chapitre3\Images\pointer2.png" />
+    <Resource Include="Chapitre3\Images\infobulle2.png" />
+    <Resource Include="Chapitre3\Images\help-icon.png" />
+    <Resource Include="Chapitre3\Images\zink.png" />
+    <Resource Include="Chapitre3\Images\uranium.png" />
+    <Resource Include="Chapitre3\Images\triangle4.png" />
+    <Resource Include="Chapitre3\Images\triangle3.png" />
+    <Resource Include="Chapitre3\Images\rassass.png" />
+    <Resource Include="Chapitre3\Images\Or.png" />
+    <Resource Include="Chapitre3\Images\manghaniz.png" />
+    <Resource Include="Chapitre3\Images\hadid.png" />
+    <Resource Include="Chapitre3\Images\fusfate.png" />
+    <Resource Include="Chapitre3\Images\fa7m.png" />
+    <Resource Include="Chapitre3\Images\bulle-yellow.png" />
+    <Resource Include="Chapitre3\Images\bulle-turquois.png" />
+    <Resource Include="Chapitre3\Images\bulle-pink.png" />
+    <Resource Include="Chapitre3\Images\bulle-orange.png" />
+    <Resource Include="Chapitre3\Images\bulle-blue.png" />
+    <Resource Include="Chapitre3\Images\bulle_green.png" />
+    <Resource Include="Chapitre3\Images\dzairBeigeT.png" />
+    <Resource Include="Images\Interface\questions %282%29.png" />
+    <Resource Include="Images\Interface\test-1.png" />
+    <Resource Include="Images\Interface\retour.png" />
+    <Resource Include="Images\Interface\002-arrows-5.png" />
+    <Resource Include="Images\orange-arrow.png" />
+    <Resource Include="Images\arrow-140-512.png" />
+    <Resource Include="Images\002-arrows-5.png" />
+    <Resource Include="Images\Interface\Question_Mark_clip_art_medium.png" />
+    <Resource Include="Images\Interface\chap1.png" />
+    <Resource Include="Images\Interface\student-1.png" />
+    <Resource Include="Images\Interface\pencil.png" />
+    <Resource Include="Images\Interface\jabber-protocole-icone-9728-64.png" />
+    <Resource Include="Images\Interface\LancerSolutionC.png" />
+    <Resource Include="Images\Interface\11.png" />
+    <Resource Include="Images\Interface\mortarboard.png" />
+    <Resource Include="Chapitre1\Images\pointer2.png" />
+    <Resource Include="Chapitre1\Images\dz-green5.png" />
+    <Resource Include="Chapitre1\Images\infobulle2.png" />
+    <Resource Include="Images\dzairBeigeT.png" />
+    <Resource Include="Images\dzair_yellow.png" />
+    <Resource Include="Chapitre1\Images\waves3.png" />
+    <Resource Include="Chapitre1\Images\annaba3.jpg" />
+    <Resource Include="Chapitre1\Images\help-icon.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="bin\Debug\WilayaInformation.xml" />
+    <Resource Include="Images\descriptionImage2.jpg" />
+    <Resource Include="Images\Chapitre2\descriptionImage2.jpg" />
+    <Resource Include="WilayaImage\21.jpg" />
+    <Resource Include="WilayaImage\22.jpg" />
+    <Resource Include="WilayaImage\23.jpg" />
+    <Resource Include="WilayaImage\24.jpg" />
+    <Resource Include="WilayaImage\25.jpg" />
+    <Resource Include="WilayaImage\26.jpg" />
+    <Resource Include="WilayaImage\27.jpg" />
+    <Resource Include="WilayaImage\28.jpg" />
+    <Resource Include="WilayaImage\29.jpg" />
+    <Resource Include="WilayaImage\30.jpg" />
+    <Resource Include="WilayaImage\31.jpg" />
+    <Resource Include="WilayaImage\32.jpg" />
+    <Resource Include="WilayaImage\33.jpg" />
+    <Resource Include="WilayaImage\34.jpg" />
+    <Resource Include="WilayaImage\35.jpg" />
+    <Resource Include="WilayaImage\36.jpg" />
+    <Resource Include="WilayaImage\37.jpg" />
+    <Resource Include="WilayaImage\38.jpg" />
+    <Resource Include="WilayaImage\39.jpg" />
+    <Resource Include="WilayaImage\40.jpg" />
+    <Resource Include="WilayaImage\41.jpg" />
+    <Resource Include="WilayaImage\42.jpg" />
+    <Resource Include="WilayaImage\43.jpg" />
+    <Resource Include="WilayaImage\44.jpg" />
+    <Resource Include="WilayaImage\45.jpg" />
+    <Resource Include="WilayaImage\46.jpg" />
+    <Resource Include="WilayaImage\47.jpg" />
+    <Resource Include="WilayaImage\48.jpg" />
+    <Resource Include="Images\Interface\background-with-a-brush-stroke-border.png" />
+    <Resource Include="Images\Interface\iconnn.png" />
+    <Resource Include="Images\Interface\info.png" />
+    <Resource Include="Chapitre1\Images\hoggar.JPG" />
+    <Resource Include="Chapitre1\Cours\Desert1.png" />
+    <Resource Include="Chapitre1\Cours\desert2.png" />
+    <Resource Include="Chapitre1\Cours\desert3.png" />
+    <Resource Include="Chapitre1\Cours\desert4.png" />
+    <Resource Include="Chapitre1\Cours\desert5.png" />
+    <Resource Include="Chapitre1\Cours\desert6.png" />
+    <Resource Include="Chapitre1\Cours\desert7.png" />
+    <Resource Include="Chapitre1\Cours\waves9.png" />
+    <Resource Include="bin\Debug\HelpExoBonus.xml" />
+    <Resource Include="Assets\Animals\bear_image.jpg" />
+    <Resource Include="Assets\Animals\deer_image.jpg" />
+    <Resource Include="Assets\Animals\eagle_image.jpg" />
+    <Resource Include="Assets\Animals\fish_image.jpg" />
+    <Resource Include="Assets\Animals\fox_image.jpg" />
+    <Resource Include="Assets\Animals\rabbit_image.jpg" />
+    <Content Include="Assets\background_music.mp3" />
+    <Resource Include="Assets\black_background.jpg" />
+    <Resource Include="Assets\greenblock.png" />
+    <Resource Include="Assets\mystery_image.jpg" />
+    <Resource Include="Assets\Cars\blackcar_image.jpg" />
+    <Resource Include="Assets\Cars\bluecar_image.jpg" />
+    <Resource Include="Assets\Cars\greencar_image.jpeg" />
+    <Resource Include="Assets\Cars\orangecar_image.jpg" />
+    <Resource Include="Assets\Cars\redcar_image2.jpg" />
+    <Resource Include="Assets\Cars\whitecar_image.jpg" />
+    <Resource Include="Assets\Cars\yellowcar_image.jpg" />
+    <Resource Include="Assets\Foods\apple_image.jpg" />
+    <Resource Include="Assets\Foods\banana_image.jpg" />
+    <Resource Include="Assets\Foods\grape_image.jpg" />
+    <Resource Include="Assets\Foods\orange_image.jpg" />
+    <Resource Include="Assets\Foods\pepper_image.jpg" />
+    <Resource Include="Assets\Foods\pineapple_image.jpg" />
+    <Content Include="Assets\SoundEffects\card_flip.mp3" />
+    <Content Include="Assets\SoundEffects\correct_match.mp3" />
+    <Content Include="Assets\SoundEffects\incorrect_match.mp3" />
+    <Resource Include="bin\Debug\Assets\Animals\bear_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Animals\deer_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Animals\eagle_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Animals\fish_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Animals\fox_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Animals\rabbit_image.jpg" />
+    <Content Include="bin\Debug\Assets\background_music.mp3" />
+    <Resource Include="bin\Debug\Assets\black_background.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\blackcar_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\bluecar_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\greencar_image.jpeg" />
+    <Resource Include="bin\Debug\Assets\Cars\orangecar_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\redcar_image2.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\whitecar_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Cars\yellowcar_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\apple_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\banana_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\grape_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\orange_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\pepper_image.jpg" />
+    <Resource Include="bin\Debug\Assets\Foods\pineapple_image.jpg" />
+    <Resource Include="bin\Debug\Assets\greenblock.png" />
+    <Resource Include="bin\Debug\Assets\mystery_image.jpg" />
+    <Content Include="bin\Debug\Assets\SoundEffects\card_flip.mp3" />
+    <Content Include="bin\Debug\Assets\SoundEffects\correct_match.mp3" />
+    <Content Include="bin\Debug\Assets\SoundEffects\incorrect_match.mp3" />
+    <Resource Include="bin\Debug\chap1.xml" />
+    <Content Include="bin\Debug\Sounds\APPLAUSE.WAV" />
+    <Content Include="bin\Debug\Sounds\btnClick.wav" />
+    <Content Include="bin\Debug\Sounds\CHIMES.WAV" />
+    <Content Include="bin\Debug\Sounds\CLICK.WAV" />
+    <Content Include="bin\Debug\Sounds\tada.wav" />
+    <Resource Include="WilayaImage\10.jpg" />
+    <Resource Include="WilayaImage\11.jpg" />
+    <Resource Include="WilayaImage\12.jpg" />
+    <Resource Include="WilayaImage\13.jpg" />
+    <Resource Include="WilayaImage\14.jpg" />
+    <Resource Include="WilayaImage\15.jpg" />
+    <Resource Include="WilayaImage\16.jpg" />
+    <Resource Include="WilayaImage\17.jpg" />
+    <Resource Include="WilayaImage\18.jpg" />
+    <Resource Include="WilayaImage\19.jpg" />
+    <Resource Include="WilayaImage\20.jpg" />
+    <Resource Include="WilayaImage\7.jpg" />
+    <Resource Include="WilayaImage\8.jpg" />
+    <Resource Include="WilayaImage\9.jpg" />
+    <Resource Include="Images\infobulle2.png" />
+    <Resource Include="icon1.ico" />
+    <Resource Include="Images\gift.png" />
+    <Resource Include="Images\descriptionImage1.jpg" />
+    <Resource Include="Images\descriptionImage3.JPG" />
+    <Resource Include="Images\descriptionImage4.JPG" />
+    <Resource Include="Images\descriptionImage5.jpg" />
+    <Resource Include="Images\descriptionImage6.JPG" />
+    <Resource Include="bin\Debug\HelpFile.xml" />
+    <Resource Include="Images\Interface\map_img.png" />
+    <Resource Include="Images\Interface\Observation.png" />
+    <Resource Include="WilayaImage\1.jpg" />
+    <Resource Include="WilayaImage\2.jpg" />
+    <Resource Include="WilayaImage\3.jpg" />
+    <Resource Include="WilayaImage\4.jpg" />
+    <Resource Include="WilayaImage\5.jpg" />
+    <Resource Include="WilayaImage\6.jpg" />
+    <Resource Include="WilayaImage\Algerie-geo.png" />
+    <Resource Include="WilayaImage\loupe.png" />
+    <Resource Include="WilayaImage\placebutton.png" />
+    <Resource Include="TestFinal\Exo4\Images\graduate.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-camel.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-coal-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-crab.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-fish.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-gas-level.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\001-oil.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-coal.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-desert.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-fuel.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-pump-jack.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-scorpion.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\002-seaweed-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-beach.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-dune.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-gas-station.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-mine.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-seaweed.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\003-shell.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\004-coral.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\004-pike.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\004-sunny.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\004-wheat-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\005-fish-2.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\005-stone.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\005-wheat.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\006-fish-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\006-gold-ingots.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\006-sun.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\007-grass.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\007-road.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\007-salmon.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\008-horse.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\008-meadow.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\008-piranha.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\009-fish.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\009-goal.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\009-island.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\010-fishes.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\010-mountains.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\010-sea-bottom.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\011-boat.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\011-ship-2.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\011-snake.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\012-farm.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\012-sailboat-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\012-sunset.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\013-field.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\013-sailboat.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\013-shore.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\014-cow.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\014-forest.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\014-yachting.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\015-deer.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\015-pine-trees.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\015-sea-ship-with-containers.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\015-trees.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\016-forest.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\016-river.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\016-ship-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\017-rain-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\017-ship.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\017-waterfall.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\018-rain.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\018-river.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\019-snowflake.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\020-snow.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\021-morning-snow.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\023-wolf.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\21513058-school-teacher-isolated-character.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\23848387-cute-owl-cartoon-holding-blank-stick-Stock-Vector-teacher.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\boat-1.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\elements_of_teacher_vector_set_551208.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\False.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\fennec.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\icon-groundwater.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\owl - Copie.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\palm-tree.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\received_1165081593613754.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\river.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\tahat.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\True.png" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\underground-water.jpg" />
+    <Resource Include="JeuBonus\CartesAnimes\Images\valley.png" />
+    <Resource Include="TestFinal\Exo3\Images\1.png" />
+    <Resource Include="TestFinal\Exo3\Images\2.png" />
+    <Resource Include="TestFinal\Exo3\Images\3.png" />
+    <Resource Include="TestFinal\Exo3\Images\alger.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\autumn_forest.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\banc-poisson.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\beach.png" />
+    <Resource Include="TestFinal\Exo3\Images\camel.png" />
+    <Resource Include="TestFinal\Exo3\Images\charbon.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\chevaux.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\Citronnier.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\corail-1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\corail.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\cow.png" />
+    <Resource Include="TestFinal\Exo3\Images\Deer2.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\desert.png" />
+    <Resource Include="TestFinal\Exo3\Images\desertification.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\fennec.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\fish.png" />
+    <Resource Include="TestFinal\Exo3\Images\fishes.png" />
+    <Resource Include="TestFinal\Exo3\Images\forest.jpeg" />
+    <Resource Include="TestFinal\Exo3\Images\forest.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\forestfire.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\forestwood.png" />
+    <Resource Include="TestFinal\Exo3\Images\GazNaturel.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\girafe.png" />
+    <Resource Include="TestFinal\Exo3\Images\gold.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\grass1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\halfa.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\hoggar.JPG" />
+    <Resource Include="TestFinal\Exo3\Images\horse.png" />
+    <Resource Include="TestFinal\Exo3\Images\irkcharki.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\IrkGharbi.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\lion.png" />
+    <Resource Include="TestFinal\Exo3\Images\maadin.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\metija.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\nap-soutterainne.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\nature.png" />
+    <Resource Include="TestFinal\Exo3\Images\oasis-taghit.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\oasis.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\olive.png" />
+    <Resource Include="TestFinal\Exo3\Images\or et argent.jpeg" />
+    <Resource Include="TestFinal\Exo3\Images\orangetree.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\palmier.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\palmier.png" />
+    <Resource Include="TestFinal\Exo3\Images\petrol-1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\petrol.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\picnic.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\Rain1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\raisin.png" />
+    <Resource Include="TestFinal\Exo3\Images\rik-1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\rik.JPG" />
+    <Resource Include="TestFinal\Exo3\Images\River.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\River1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\saharaplant.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\sardine.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\scorpion.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\sheep.png" />
+    <Resource Include="TestFinal\Exo3\Images\Snow1.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\tahat.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\tikjda-chalet.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\tikjda.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\undersea.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\wheat.jpg" />
+    <Resource Include="TestFinal\Exo3\Images\wood.png" />
+    <Resource Include="bin\Debug\FichRemplirChamps.xml" />
+    <Resource Include="Images\earth %282%29.png" />
+    <Resource Include="Images\earth %281%29.png" />
+    <Resource Include="Images\Warning.ico" />
+    <Resource Include="Images\StartImage4.png" />
+    <Resource Include="Images\StartImage3.png" />
+    <Resource Include="Images\StartImage2.png" />
+    <Resource Include="Images\StartImage1.png" />
+    <Resource Include="bin\Debug\StartExerciceDescriptionFile.xml" />
+    <Resource Include="Images\gstar.png" />
+    <Resource Include="Images\rain.png" />
+    <Resource Include="Images\charbon2.png" />
+    <Resource Include="Images\relier.png" />
+    <Resource Include="Images\lampeBrain1.png" />
+    <Resource Include="Images\cerf.png" />
+    <Resource Include="Images\plant.png" />
+    <Resource Include="Images\tree.png" />
+    <Resource Include="Images\sun2.png" />
+    <Resource Include="Images\palmier.png" />
+    <Resource Include="Images\camel.png" />
+    <Resource Include="Images\sheep.png" />
+    <Resource Include="Images\notebook.png" />
+    <Resource Include="Images\book.png" />
+    <Resource Include="Images\star.png" />
+    <Resource Include="Images\sun.png" />
+    <Resource Include="Images\img4.png" />
+    <Resource Include="Images\fish.png" />
+    <Resource Include="Images\img2.png" />
+    <Resource Include="Images\img1.png" />
+    <Resource Include="Images\earth17.png" />
+    <Resource Include="Images\question-mark.png" />
+    <Resource Include="Images\earth5.png" />
+    <Resource Include="bin\Debug\Oneword3pics.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+    <Resource Include="TestFinal\Exo5\Images\forest.jpeg" />
+    <Resource Include="TestFinal\Exo5\Images\nature.png" />
+    <Resource Include="TestFinal\Exo5\Images\wood.png" />
+    <Resource Include="TestFinal\Exo5\Images\olive.png" />
+    <Resource Include="TestFinal\Exo5\Images\raisin.png" />
+    <Resource Include="TestFinal\Exo5\Images\undersea.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\saharaplant.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\orangetree.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\fishes.png" />
+    <Resource Include="TestFinal\Exo5\Images\autumn_forest.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\desert.png" />
+    <Resource Include="TestFinal\Exo5\Images\beach.png" />
+    <Resource Include="TestFinal\Exo5\Images\wheat.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\sheep.png" />
+    <Resource Include="TestFinal\Exo5\Images\irkcharki.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\palmier.png" />
+    <Resource Include="TestFinal\Exo5\Images\picnic.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\lion.png" />
+    <Resource Include="TestFinal\Exo5\Images\girafe.png" />
+    <Resource Include="TestFinal\Exo5\Images\gold.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\horse.png" />
+    <Resource Include="TestFinal\Exo5\Images\forestwood.png" />
+    <Resource Include="TestFinal\Exo5\Images\forestfire.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\cow.png" />
+    <Resource Include="TestFinal\Exo5\Images\fish.png" />
+    <Resource Include="TestFinal\Exo5\Images\camel.png" />
+    <Resource Include="TestFinal\Exo5\Images\alger.jpg" />
+    <Resource Include="TestFinal\Exo5\Images\3.png" />
+    <Resource Include="TestFinal\Exo5\Images\2.png" />
+    <Resource Include="TestFinal\Exo5\Images\1.png" />
+    <Resource Include="Images\False.png" />
+    <Resource Include="Images\True.png" />
+    <Resource Include="bin\Debug\c1.xml" />
+    <Resource Include="bin\Debug\c2.xml" />
+    <Resource Include="bin\Debug\c3.xml" />
+    <Resource Include="bin\Debug\DevineMot.xml">
+      <SubType>Designer</SubType>
+    </Resource>
+    <Resource Include="bin\Debug\Chapitre1.xml" />
+    <Resource Include="bin\Debug\Chapitre2.xml" />
+    <Resource Include="bin\Debug\Chapitre3.xml" />
+    <Content Include="bin\Debug\Etudiant.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bin\Debug\Etudiant_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>Etudiant.mdf</DependentUpon>
+    </Content>
+    <Resource Include="Images\star0.png" />
+    <Resource Include="Images\star1.png" />
+    <Resource Include="Images\Image0.png" />
+    <Resource Include="Images\Image1.png" />
+    <Resource Include="Images\Image2.png" />
+    <Resource Include="Images\image3.png" />
+    <Resource Include="Chapitre1\Images\desert7.png" />
+    <Resource Include="Chapitre1\Images\desert6.png" />
+    <Resource Include="Chapitre1\Images\desert5.png" />
+    <Resource Include="Chapitre1\Images\desert4.png" />
+    <Resource Include="Chapitre1\Images\desert3.png" />
+    <Resource Include="Chapitre1\Images\Desert1.png" />
+    <Resource Include="Chapitre1\Images\desert2.png" />
+    <Resource Include="Chapitre1\Images\bar15.png" />
+    <Resource Include="Chapitre1\Images\waves9.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

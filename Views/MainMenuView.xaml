@@ -1,0 +1,166 @@
+﻿<UserControl x:Class="AlGeo.Views.MainMenuView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AlGeo.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="1100">
+
+    <DockPanel>
+        <DockPanel.Background>
+            <ImageBrush ImageSource="/AlGeo;component/Assets/black_background.jpg" Stretch="UniformToFill"/>
+        </DockPanel.Background>
+        <TextBlock DockPanel.Dock="Top" HorizontalAlignment="Center" Text="{Binding Timer.Time, StringFormat=الوقت المتبقي: {0}}" Foreground="#FF8AFF7E" FontSize="24" FontFamily="/AlGeo;component/Fonts/#El Messiri" />
+        <StackPanel Margin="10" DockPanel.Dock="Bottom">
+            <DockPanel LastChildFill="True">
+                <DockPanel DataContext="{Binding GameInfo}" MinWidth="200" DockPanel.Dock="Right">
+                    <StackPanel Visibility="{Binding WinMessage}">
+                        <TextBlock Foreground="#FF51FF00" Text="لقد فزت" FlowDirection="RightToLeft" FontSize="20" Width="63.48"/>
+                        <Button Padding="10" Background="#FF151515" Click="PlayAgain_C" Foreground="#FF0EFF0E" FontSize="20" Content="العب مرة أخرى" FlowDirection="RightToLeft" Style="{DynamicResource BeigeButton}"/>
+                    </StackPanel>
+                    <StackPanel Visibility="{Binding LostMessage}">
+                        <TextBlock Foreground="#FFFF5050" Text="لقد فقدت" FlowDirection="RightToLeft" Width="37.629" FontSize="20"/>
+                        <Button Padding="10" Background="#FF151515" Click="PlayAgain_C" Foreground="#FFFF503E" FontSize="20" Content="العب مرة أخرى" FlowDirection="RightToLeft" Style="{DynamicResource BeigeButton}"/>
+                    </StackPanel>
+                </DockPanel>
+                <StackPanel DataContext="{Binding GameInfo}" DockPanel.Dock="Left">
+                    <TextBlock Text="{Binding Score, StringFormat=النتيجة: \{0\}}" Foreground="#FFFFF163" FontSize="24"  FontFamily="/AlGeo;component/Fonts/#El Messiri"/>
+                    <TextBlock Text="{Binding MatchAttempts, StringFormat=المحاولات المتبقية: \{0\}}" Foreground="#FFFF7D41" FontSize="22" FontFamily="/AlGeo;component/Fonts/#El Messiri" />
+                </StackPanel>
+            </DockPanel>
+        </StackPanel>
+        <Grid DataContext="{Binding Slides}" IsEnabled="{Binding areSlidesActive}" DockPanel.Dock="Top"  VerticalAlignment="Center" Width="800" Height="400">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.Resources>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Margin" Value="1" />
+                </Style>
+            </Grid.Resources>
+
+            <!-- Left -->
+            <Button Grid.Row="0" Grid.Column="0" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[0]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="1" Grid.Column="0" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[1]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="2" Grid.Column="0" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[2]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!-- Middle-->
+            <Button Grid.Row="0" Grid.Column="1" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[3]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="1" Grid.Column="1" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[4]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="2" Grid.Column="1" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[5]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!-- Right -->
+            <Button Grid.Row="0" Grid.Column="2" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[6]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="1" Grid.Column="2" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[7]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="2" Grid.Column="2" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[8]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <!-- More right -->
+            <Button Grid.Row="0" Grid.Column="3" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[9]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="1" Grid.Column="3" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[10]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Grid.Row="2" Grid.Column="3" IsEnabled="{Binding isSelectable}" DataContext="{Binding MemorySlides[11]}" Click="Slide_Clicked">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Style="{StaticResource SlideBorder}" BorderBrush="{Binding BorderBrush}">
+                            <Image Stretch="Fill" Source="{Binding SlideImage}" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </Grid>
+    </DockPanel>
+</UserControl>

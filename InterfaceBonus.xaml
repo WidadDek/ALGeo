@@ -1,0 +1,71 @@
+﻿<Window x:Class="AlGeo.InterfaceBonus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlGeo"
+        mc:Ignorable="d"
+        Title="InterfaceBonus" Height="500" Width="700" Background="{x:Null}" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" AllowsTransparency="True">
+
+
+    <Grid x:Name="gridInterfaceBonus" Height="400" Width="500" HorizontalAlignment="Center" VerticalAlignment="Center" Background="{x:Null}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="127*"/>
+            <ColumnDefinition Width="75*"/>
+            <ColumnDefinition Width="58*"/>
+            <ColumnDefinition Width="240*"/>
+        </Grid.ColumnDefinitions>
+
+        <Border  BorderThickness="1"  CornerRadius="30" Background="#FFB8B8BC" Grid.ColumnSpan="4" >
+
+        </Border>
+
+        <Button x:Name="btnPainting" Content="تلوين"  FontSize="30" Foreground="#FFED8C2B" Background="#FF4D1A55" Style="{DynamicResource ResourceKey=BonusButton}" Margin="104.546,189.974,10,103.026" RenderTransformOrigin="0.5,0.5" Grid.Column="3" Click="btnPainting_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="53"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnMemoryGame" Content="لعبة الذاكرة"  FontSize="20"  FontWeight="ExtraBold" Background="#FF911046" Foreground="#FFED8C2B" Style="{DynamicResource ResourceKey=BonusButton}" Height="107" Margin="-33.048,82.317,24.416,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Grid.ColumnSpan="2" Click="btnMemoryGame_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-13.33"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnMap" Content="أثري معلوماتي" FontWeight="ExtraBold" Foreground="#FF97134A" Background="#FFF25822" FontSize="22" Style="{DynamicResource ResourceKey=BonusButton}" Margin="-2.899,82.297,100.258,0" Height="107" VerticalAlignment="Top" d:LayoutOverrides="Height" RenderTransformOrigin="0.5,0.5" Grid.Column="3" Click="btnMap_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.33"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnEquation" Content="معادلات" Foreground="#FF911046" Background="#FFED8C2B" FontSize="25"  Style="{DynamicResource ResourceKey=BonusButton}" Margin="10,189.974,-7.727,103.026" Height="107" RenderTransformOrigin="0.5,0.5" Click="btnEquation_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-53"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+        <Button x:Name="buttonExit" Content="Button" HorizontalAlignment="Right" Height="40" VerticalAlignment="Top" Width="50" 
+                Style="{DynamicResource ExitButtonStyle}" RenderTransformOrigin="0.5,0.25" Click="buttonExit_Click" 
+                d:LayoutOverrides="TopMargin, BottomMargin" Grid.Column="3"/>
+        <Image x:Name="imgTrophy" Source="/Images/img4.png" Margin="10.048,195.216,-105.575,0" Grid.Column="1" Grid.ColumnSpan="2"/>
+
+    </Grid>
+
+</Window>

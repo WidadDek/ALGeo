@@ -1,0 +1,58 @@
+﻿<Page x:Class="AlGeo.TestFinal.Exo4.CorrigerRelier"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="1100"
+	Title="CorrigerRelier">
+
+    <Grid Background="#FF125065">
+
+
+
+        <Canvas x:Name="canvaslines" HorizontalAlignment="Left" Height="611" Margin="0,0,-117,-111" VerticalAlignment="Top" Width="1117">
+            <TextBlock x:Name="l6" Height="54" Canvas.Left="684" TextWrapping="Wrap" Text=" منعش صيفاو شتاءا" Canvas.Top="188" Width="220"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" TextAlignment="Center" FontSize="24"/>
+            <TextBlock x:Name="l7" Height="54" Canvas.Left="135" TextWrapping="Wrap" Text="حالة الجو لفترة طويلة" Width="261"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" Canvas.Top="257" FontSize="24" TextAlignment="Right"/>
+            <TextBlock x:Name="l8" Height="54" Canvas.Left="135" TextWrapping="Wrap" Text="نباتات الصحراء      " Canvas.Top="188" Width="260"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" TextAlignment="Right" FontSize="24"/>
+
+            <TextBlock x:Name="l1"  Height="54" Canvas.Left="135" TextWrapping="Wrap" Canvas.Top="120" Width="261"  FontSize="24" TextAlignment="Right" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"><Run Text="مناخ البحر"/><Run Text=" المتوسط"/></TextBlock>
+            <TextBlock x:Name="l2" Height="54" Canvas.Left="684" TextWrapping="Wrap" Text="الطقس" Canvas.Top="120" Width="220"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="24" TextAlignment="Center"/>
+            <TextBlock x:Name="l3" Height="54" Canvas.Left="135" TextWrapping="Wrap" Text="حالة الجو لفترة قصيرة" Canvas.Top="325" Width="260" Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" TextAlignment="Right" FontSize="24"/>
+            <TextBlock x:Name="l4" Height="54" Canvas.Left="684" TextWrapping="Wrap" Text="المناخ" Canvas.Top="325" Width="220"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" FontSize="24" TextAlignment="Center"/>
+            <TextBlock x:Name="l5" Height="54" Canvas.Left="684" TextWrapping="Wrap" Text="أوراقها شوكية" Canvas.Top="257" Width="220"  Background="{DynamicResource {x:Static SystemColors.ControlBrushKey}}" TextAlignment="Center" FontSize="24"/>
+            <TextBlock Height="59.694" Canvas.Left="190.695" Foreground="White" TextWrapping="Wrap" Text="لاستظهار تصحيح التمرين أنقر فوق زر تصحيح  " Canvas.Top="40.36" Width="673.544" Background="#FFF1C20F" FontSize="36" TextAlignment="Right" RenderTransformOrigin="0.5,0.5" FontFamily="/AlGeo;component/Fonts/#El Messiri">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-0.169"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Button x:Name="corriger" Content="التصحيح" Style="{DynamicResource StyleBtnVF}"  Background="#FF27C04C" Canvas.Left="455" Canvas.Top="404" Width="179" FontSize="28"  Click="Button_Click"/>
+            <Image Height="60" Canvas.Left="108" Source="Images\geography-1.png" Canvas.Top="39" Width="60" RenderTransformOrigin="0.5,0.5">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleX="1.069"/>
+                        <RotateTransform/>
+                        <TranslateTransform X="0.513"/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+            <Image Height="50" Canvas.Left="135" Canvas.Top="124" Width="52" Source="Images\003-sea.png" RenderTransformOrigin="0.595,0.518"/>
+            <Image Height="54" Canvas.Left="135" Source="Images\desert-1.png" Canvas.Top="188" Width="58"/>
+            <Image Height="54" Canvas.Left="136"  Source="Images\001-temperature.png" Canvas.Top="257" Width="51"/>
+            <Image Height="54" Canvas.Left="135" Source="Images\004-weather.png" Canvas.Top="325" Width="46"/>
+            <Border BorderThickness="1" Height="303" Canvas.Left="106" Canvas.Top="102" Width="828" BorderBrush="{DynamicResource {x:Static SystemColors.InactiveBorderBrushKey}}"/>
+
+
+
+
+        </Canvas>
+
+
+    </Grid>
+</Page>

@@ -1,0 +1,36 @@
+﻿<Window x:Class="AlGeo.InterfaceEnigme"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlGeo"
+        mc:Ignorable="d"
+        Title="InterfaceEnigme"  Height="650" Width="1100" Background="#FF1ABC9C" WindowStartupLocation="CenterScreen"
+        WindowStyle="None" ResizeMode="NoResize">
+
+    <Grid Background="#FF1ABC9C">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="18*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="90*"/>
+            <RowDefinition Height="91*"/>
+            <RowDefinition Height="109*"/>
+            <RowDefinition Height="72*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="15*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <Frame x:Name="ExoFrame"  NavigationUIVisibility="Hidden" Grid.ColumnSpan="4"   Grid.Row="2" Grid.RowSpan="5" Navigated="ExoFrame_Navigated"/>
+        <Button x:Name="Enigme" Content="enigme" Grid.Column="2" Margin="88.316,22.501,193.761,20.384" Grid.Row="4" Click="Enigme_Click"/>
+        <Button x:Name="Correction" Content="Correction" Grid.Column="2" Margin="88.316,10,193.761,33.617" Grid.Row="5" Click="Correction_Click"/>
+
+    </Grid>
+</Window>

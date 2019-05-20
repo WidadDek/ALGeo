@@ -1,0 +1,84 @@
+﻿<Page x:Class="AlGeo.ExerciceRemplirTableau2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="ExerciceRemplirTableau2" Height="650" Width="1100" Background="#FF1ABC9C">
+    <Page.Resources>
+        <Storyboard x:Key="StoryboardRemplir" RepeatBehavior="1x">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="image1" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.2" Value="25.426"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.4" Value="-18.047"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:0.6" Value="-0.06"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource StoryboardRemplir}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid Height="642" Width="1092">
+        <Canvas x:Name="canvasexercice" FlowDirection="RightToLeft" Background="#FF1ABC9C"  >
+            <Button x:Name="button2" Content="page précédente" HorizontalAlignment="Left" Height="95" VerticalAlignment="Top" Width="105" FontSize="20" Click="button2_Click" Style="{DynamicResource ButtonStylePrevious2}" Canvas.Left="982" Canvas.Top="10" ToolTip="الرجوع "/>
+            <Rectangle Height="626.895" Canvas.Left="69" Stroke="#FFE74C3C" StrokeThickness="5" Width="919" RadiusY="87.634" RadiusX="87.634" Canvas.Top="6"/>
+            <Rectangle  Fill="#FFFBEAB5" Height="185" Canvas.Left="416" Stroke="#FFE74C3C" StrokeThickness="3" Canvas.Top="257" Width="252"/>
+            <Rectangle Fill="#FFFBEAB5" Stroke="#FFE74C3C" StrokeThickness="3" Height="185"  Canvas.Left="116" Canvas.Top="257" Width="252"/>
+            <Rectangle   Fill="#FFFBEAB5" Height="62" Canvas.Left="416" Stroke="#FFE74C3C" StrokeThickness="3" Canvas.Top="195" Width="252"/>
+            <Rectangle   Fill="#FFFBEAB5" Height="62" Canvas.Left="116" Stroke="#FFE74C3C" StrokeThickness="3" Canvas.Top="195" Width="252"   />
+            <TextBlock x:Name="question" TextWrapping="Wrap" Text="صنف الكلمات التالية في الجدول الأتي :" Canvas.Left="145" Canvas.Top="29" Height="60" Width="646" FontSize="36" TextDecorations="{x:Null}" FontFamily="/AlGeo;component/Fonts/#El Messiri" Foreground="#FF2C3E50"/>
+
+            <Rectangle  Fill="#FFFBEAB5" Height="185" Canvas.Left="709" Stroke="#FFE74C3C" StrokeThickness="3"  Canvas.Top="257" Width="252"/>
+            <Rectangle  Fill="#FFFBEAB5" Height="62" Canvas.Left="709" Stroke="#FFE74C3C" StrokeThickness="3" Canvas.Top="195" Width="252"/>
+            <TextBlock x:Name="txt1" Height="47"  Canvas.Left="513" TextWrapping="Wrap" Text="الاقليم القاري " Canvas.Top="205" Width="155" FlowDirection="RightToLeft"  RenderTransformOrigin="0.633,0.264" FontSize="22" FontFamily="/AlGeo;component/Fonts/#El Messiri" Foreground="#FFE74C3C"   FontWeight="Bold"/>
+            <TextBlock x:Name="txt3" Height="47" Canvas.Left="796" TextWrapping="Wrap" Canvas.Top="205" Width="165" FlowDirection="RightToLeft" FontSize="22" Text="الاقليم الصحراوي"  FontFamily="/AlGeo;component/Fonts/#El Messiri" Foreground="#FFE74C3C"  FontWeight="Bold"/>
+
+
+            <TextBlock x:Name="txt2"   Height="47" Canvas.Left="206" TextWrapping="Wrap" Canvas.Top="205" Width="140" FlowDirection="RightToLeft" FontSize="22" FontFamily="/AlGeo;component/Fonts/#El Messiri" Foreground="#FFE74C3C"  Text="اقليم البحر-أ-م"  FontWeight="Bold"/>
+            <Image Height="56" Source="Chapitre3/Images/boat-1.png" Stretch="Fill" Width="65" Canvas.Top="198" Canvas.Left="133"/>
+            <Image Height="54" Source="Images/valley.png" Stretch="Fill" Width="62" Canvas.Left="442" Canvas.Top="199" RenderTransformOrigin="2.899,0.368"/>
+            <Image Height="55" Source="Chapitre3/Images/desert.png" Stretch="Fill" Width="64" Canvas.Top="198" Canvas.Left="727" RenderTransformOrigin="0.627,0.36"/>
+
+            <TextBlock x:Name="mot5" Height="35" Canvas.Left="596.162" TextWrapping="Wrap" Canvas.Top="144" Width="127" FontSize="20" MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50"/>
+            <TextBlock x:Name="mot7" Height="35" Canvas.Left="596.162" TextWrapping="Wrap" Canvas.Top="95" Width="127" FontSize="20"  MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50"/>
+            <TextBlock x:Name="mot8" Height="35" Canvas.Left="451.162" TextWrapping="Wrap" Canvas.Top="100" Width="127" FontSize="20" MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50"/>
+            <TextBlock x:Name="mot1" Canvas.Left="451.162" TextWrapping="Wrap" Canvas.Top="141" Width="127" FontSize="20"  MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Height="35" Foreground="#FF2C3E50"><Run Language="ar-sa"  /></TextBlock>
+            <TextBlock x:Name="mot3" Height="37" Canvas.Left="299.162" TextWrapping="Wrap" Canvas.Top="142" Width="127" FontSize="20" MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50"/>
+            <TextBlock x:Name="mot4" Height="35" Canvas.Left="299.162" TextWrapping="Wrap" Canvas.Top="102" Width="127" FontSize="20" MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50" RenderTransformOrigin="0.723,0.039"/>
+            <TextBlock x:Name="mot2" Height="35" Canvas.Left="134.162" TextWrapping="Wrap" Canvas.Top="99" Width="127" FontSize="20" RenderTransformOrigin="2.298,1.418"  MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50" ><Run Language="ar-sa" /></TextBlock>
+            <TextBlock x:Name="mot6" Height="35" Canvas.Left="134.162" TextWrapping="Wrap" Canvas.Top="143" Width="127" FontSize="20" MouseLeftButtonDown="shape_MouseLeftButtonDown" MouseLeftButtonUp="shape_MouseLeftButtonUp"  MouseMove="shape_MouseMove" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Foreground="#FF2C3E50"/>
+            <Button x:Name="HelpBtn" Content="Button" HorizontalAlignment="Left" Height="48" VerticalAlignment="Top" Width="54" Style="{DynamicResource ButtonStyleHelp}" RenderTransformOrigin="8.588,0.025" Click="ClickHelp" Canvas.Left="10" Canvas.Top="569.327" ToolTip="مساعدة"/>
+            <Button x:Name="valider"   Background="#FF125065" Content="تأكيد الاجابة"   HorizontalAlignment="Right" Height="62.97" VerticalAlignment="Top" Width="184.463" Click="Button_Click_2" FontSize="36" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic"  Canvas.Left="155.962" Canvas.Top="455.591" RenderTransformOrigin="0.577,0.542" FontWeight="Bold" Foreground="#FFF0E4E4" />
+            <Button x:Name="corriger"  Foreground="#FFF0E4E4" Background="#FF13C73F" Content="التصحيح"   HorizontalAlignment="Right" Height="62.97" VerticalAlignment="Top" Width="170.88"  FontSize="36" Canvas.Left="674.565" Canvas.Top="457.09" RenderTransformOrigin="0.577,0.542" FontWeight="Bold" FontFamily="/AlGeo;component/Fonts/#Noto Naskh Arabic" Click="corriger_Click"/>
+
+
+        </Canvas>
+        <StackPanel Style="{DynamicResource StyleBtnStackPanelVF}" Grid.Column="0" Grid.Row="0"   Width="497.981" Height="79.462" HorizontalAlignment="Right" Margin="0,536.42,318.112,26.118" >
+            <TextBlock x:Name="CountDownTB" Style="{DynamicResource StyleTBlkVF}" VerticalAlignment="Bottom" HorizontalAlignment="Center"  Width="411.981" RenderTransformOrigin="0.5,0.5" Margin="0,0,0,-0.156" Height="61.727">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.236"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="-0.742"/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <Image x:Name="image1" Source="TestFinal/Exo1/Images/alarm-clock.png" Stretch="UniformToFill" Height="74"   HorizontalAlignment="Center" Width="77" RenderTransformOrigin="0.541,0.19" Margin="0,2,0,3">
+                <Image.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Image.RenderTransform>
+            </Image>
+        </StackPanel>
+
+    </Grid>
+</Page>

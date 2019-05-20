@@ -1,0 +1,45 @@
+﻿<Window x:Class="AlGeo.FenetreDeDialogueCours"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AlGeo"
+        mc:Ignorable="d"
+        Title="FenetreDeDialogueCours" Height="200" Width="500" ResizeMode="NoResize"  WindowStyle="None"   WindowStartupLocation="CenterScreen"   AllowsTransparency="True" Foreground="{x:Null}" Background="{x:Null}">
+    <Grid Background="{x:Null}" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="5*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"  />
+            <ColumnDefinition Width="*"  />
+            <ColumnDefinition Width="8*"  />
+            <ColumnDefinition Width="8*"  />
+            <ColumnDefinition Width="*"  />
+            <ColumnDefinition Width="*"  />
+        </Grid.ColumnDefinitions>
+        <Border  BorderThickness="1" Grid.Column="1"  Grid.Row="1" Grid.RowSpan="4" Grid.ColumnSpan="4" CornerRadius="30" Background="#FFEACB3F">
+            <Image x:Name="image" Height="68.801" Margin="159.996,-1,173.26,0" VerticalAlignment="Top" Source="Images\Interface\11.png"/>
+        </Border>
+
+
+        <TextBlock Text="هل تريد متابعة القراءة عند اخر توقف؟" TextAlignment="Center" Grid.Column="2" Grid.Row="2" Background="{x:Null}"  Foreground="#FF2C3E50" 
+                   VerticalAlignment="Bottom" FlowDirection="RightToLeft" FontFamily="/AlGeo;component/Fonts/#El Messiri" FontWeight="Bold"  FontSize="22" 
+                   Grid.ColumnSpan="2" Height="35.283" Margin="0,0,0,10" />
+
+        <Button x:Name="Yes" Content="نعم, تابع عند اخر توقف"   Style="{DynamicResource BorderButton}" Grid.Column="3"  Grid.Row="3"  VerticalAlignment="Center" 
+                HorizontalAlignment="Center"  FontSize="13" Click="StartCurrentPage_Click" Background="#FF1ABC9C" Foreground="#FF2C3E50"  BorderBrush="{x:Null}" 
+                Margin="22.052,3.653,33.785,6.71" Width="145" Height="26"/>
+        <Button x:Name="No" Content="لا, ابدا من الصفحة الاولى"  Click="StartFirstPage_Click" Background="#e74c3c" Foreground="#FF2C3E50"
+                    Style="{DynamicResource BorderButton}" Grid.Column="2"  Grid.Row="3" FontSize="13" Height="26" Width="145"  />
+        <Button x:Name="Exit" Content="Button" HorizontalAlignment="Right" Width="42" Style="{DynamicResource ExitButtonStyle}" Margin="0,0,10,-9.818" Grid.Row="1" Grid.Column="3" Click="Exit_Click"/>
+
+    </Grid>
+</Window>
+

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<relier>
+
+  <questions1>
+    <question1>أنواع المناخ</question1>
+    <question1>المناخ لقاري</question1>
+    <question1>المناخ الصحراوي</question1>
+    <question1>مناخ البحر المتوسط</question1>
+    <question1>المناطق الشمالية</question1>
+    <question1>ثلاثة</question1>
+    <question1>المناطق الداخلية</question1>
+    <question1>المناطق الجنوبية</question1>
+  </questions1>
+
+  <questions2>
+    <question2>مناخ البحر المتوسط</question2>
+    <question2>المناخ القاري</question2>
+    <question2>المناخ الصحراوي</question2>
+    <question2>الجمال</question2>
+    <question2>تعيش في الصحراء</question2>
+    <question2>شتاء دافئ</question2>
+    <question2>شتاء بارد</question2>
+    <question2>صيف جاف</question2>
+  </questions2>
+
+  <questions3>
+    <question3>مدينة الجزائر</question3>
+    <question3>مدينة بسكرة</question3>
+    <question3>الأنعام و الأبقار</question3>
+    <question3>الجمال و الغزلان</question3>
+    <question3>تعيش في الجنوب</question3>
+    <question3>اعتدال الحرارة</question3>
+    <question3>ارتفاع الحرارة</question3>
+    <question3>تعيش في الشمال</question3>
+  </questions3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</relier>

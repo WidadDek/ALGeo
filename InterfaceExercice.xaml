@@ -1,0 +1,74 @@
+﻿<Page x:Class="AlGeo.InterfaceExercice"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:AlGeo"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+       Title="InterfaceExercice" Height="650" Width="1100" Background="#FF1ABC9C">
+    <Page.Resources>
+        <Storyboard x:Key="ImageQuestionsMoveLeftToRight" AutoReverse="True" RepeatBehavior="Forever">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="question">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:3" Value="265.98"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </Page.Resources>
+    <Page.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource ImageQuestionsMoveLeftToRight}"/>
+        </EventTrigger>
+    </Page.Triggers>
+    <Grid>
+        <Image x:Name="question" Height="185" Margin="195,0,345,0" VerticalAlignment="Top" Source="Images/Interface/questions.jpg" Width="560" RenderTransformOrigin="0.5,0.5">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+
+        <Button x:Name="Qcm" Content="اختر الاجابة المناسبة" Style="{DynamicResource RedButton}" Click="Qcm_Click"
+                 Margin="457.825,213.537,254.175,0" VerticalAlignment="Top" FontSize="38" Height="70" Width="380"/>
+        <Button x:Name="RemplirLesChamps" Content="املا الفراغات" Style="{DynamicResource YellowButton}" Click="RemplirLesChamps_Click"
+                Margin="508.949,316.14,203.051,262.86"  FontSize="40" Height="70" Width="380" />
+        <Button x:Name="RemplirTableau" Content="املا الجدول" Style="{DynamicResource BeigeButton}" Click="RemplirTableau_Click"
+                Height="70" Width="380" Margin="457.825,0,254.175,157.417" VerticalAlignment="Bottom"  FontSize="40" />
+        <Button x:Name="buttonRelier" Content="اربط العبارات المتناسبة" Click="relier" Style="{DynamicResource RedButton}" HorizontalAlignment="Left"  
+                Margin="396.33,518.876,0,0" VerticalAlignment="Top" Height="70" Width="380" FontSize="36"/>
+
+        <Image x:Name="imgQcm"  Source="Images/Interface/test-1.png" Height="71" Margin="0,213.537,179.683,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="94.09"/>
+
+        <Image x:Name="imgRchamps" Source="Images/Interface/pencil.png" HorizontalAlignment="Right" Margin="0,309.555,113.778,269.445" Width="80.274" RenderTransformOrigin="0.509,0.521">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.216"/>
+                    <RotateTransform Angle="-27.412"/>
+                    <TranslateTransform X="-0.641" Y="0.332"/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image x:Name="imgRtableau"  Source="Images/Interface/questions (2).png" Margin="0,0,148.24,157.417" Height="71" VerticalAlignment="Bottom" RenderTransformOrigin="0.523,0.336" HorizontalAlignment="Right" Width="77.648"/>
+
+        <Image x:Name="tree" Margin="46.595,167.862,0,34.598" Source="/Images/lampeBrain1.png" HorizontalAlignment="Left" Width="427.138"/>
+        <Button x:Name="button2" Content="page précédente" HorizontalAlignment="Right" Height="102" Margin="0,26,957,0" VerticalAlignment="Top" Width="103" FontSize="20" Click="button2_Click" Style="{DynamicResource ButtonStylePrevious2}" RenderTransformOrigin="0.5,0.5">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="buttonAccueil" Content="Button" HorizontalAlignment="Right" Height="125.533" Margin="0,0,1.426,5.591" VerticalAlignment="Bottom" Width="135.754" Style="{DynamicResource ButtonStyleHomePage}" Click="buttonAccueil_Click"/>
+        <Image x:Name="imgRelier"  Source="/Images/relier.png" Margin="0,0,240.414,44.891" Height="86.233" VerticalAlignment="Bottom" RenderTransformOrigin="0.523,0.336" HorizontalAlignment="Right" Width="78.256"/>
+
+
+    </Grid>
+</Page>
